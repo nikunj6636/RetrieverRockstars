@@ -1,0 +1,3868 @@
+## Entities and Relationships:
+
+**Entities:**
+
+* **United States Securities and Exchange Commission (SEC)**
+* **Company filing the report (not specified)**
+
+**Relationships:**
+
+* The company is filing a **Form 10-Q** with the SEC.
+* The report is a **Quarterly Report** pursuant to **Section 13 or 15(d) of the Securities Exchange Act of 1934**.
+* The report covers the **quarterly period ended June 25, 2022**. 
+
+**Additional Information:**
+
+* The SEC is located in **Washington, D.C. 20549**. 
+* The company is required to file the report due to the **Securities Exchange Act of 1934**. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Company:**  The company filing the report (not explicitly named, but implied by the context).
+* **SEC:** Securities and Exchange Commission
+* **Section 13/15(d):**  Sections of the Securities Exchange Act of 1934
+
+**Relationships:**
+
+* **Filing:** The company is filing a report with the SEC.
+* **Regulation:** The report is governed by Section 13 or 15(d) of the Securities Exchange Act of 1934.
+* **Time Period:** The report covers the quarterly period ended June 25, 2022.
+* **File Number:** The company's Commission File Number is 001-36743.
+
+**Note:** The text also mentions a "Transition Report," but it's unclear what this refers to specifically. It could be a report related to a change in the company's structure or reporting requirements. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Apple Inc.** (Registrant)
+* **California** (State or jurisdiction)
+
+**Relationships:**
+
+* **Apple Inc.** is a company registered in **California**.
+* **Apple Inc.** has an IRS Employer Identification Number of **94-2404110**.
+
+**Other Information:**
+
+* **File Number:** 001-36743 
+
+This information suggests that Apple Inc. is a company registered in California and has been assigned a specific file number by a regulatory body. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **IRS:** Internal Revenue Service (implied)
+* **Employer Identification No.:**  A unique identifier assigned to businesses by the IRS.
+* **Company:**  The company whose information is being presented (name not provided).
+* **Apple Park Way:**  The street address of the company's principal executive offices.
+* **Cupertino:**  The city where the company's principal executive offices are located.
+* **California:**  The state where the company's principal executive offices are located.
+* **95014:**  The zip code of the company's principal executive offices.
+
+**Relationships:**
+
+* **Company is assigned an Employer Identification No. by the IRS.**
+* **Company's principal executive offices are located at One Apple Park Way, Cupertino, California 95014.** 
+
+**Note:** The text does not provide the name of the company, so we cannot establish a relationship between the company and the other entities. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Zip Code:**  (This is a placeholder, the actual zip code is missing from the text)
+* **Registrant:**  (This is a placeholder, the actual name of the registrant is missing from the text)
+* **Common Stock:**  (This is the type of security)
+* **Exchange:**  (This is a placeholder, the name of the exchange is missing from the text)
+
+**Relationships:**
+
+* **Registrant has a telephone number:** (408) 996-1010
+* **Registrant has registered securities:** Common Stock
+* **Common Stock is registered on an exchange:** (The name of the exchange is missing)
+
+**Missing Information:**
+
+* The actual zip code is missing.
+* The actual name of the registrant is missing.
+* The name of the exchange where the Common Stock is registered is missing. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **AAPL:**  A company (presumably Apple Inc.)
+* **Common Stock:** A type of security
+* **1.000% Notes due 2022:** A type of debt security
+* **1.375% Notes due 2024:** A type of debt security
+* **0.000% Notes due 2025:** A type of debt security
+* **The Nasdaq Stock Market LLC:** A stock exchange
+
+**Relationships:**
+
+* **Traded on:** AAPL's Common Stock is traded on The Nasdaq Stock Market LLC.
+* **Traded on:** The 1.000% Notes due 2022 are traded on The Nasdaq Stock Market LLC.
+* **Traded on:** The 1.375% Notes due 2024 are traded on The Nasdaq Stock Market LLC.
+* **Traded on:** The 0.000% Notes due 2025 are traded on The Nasdaq Stock Market LLC.
+
+**Note:** The text doesn't explicitly state that the 0.000% Notes due 2025 are traded on The Nasdaq Stock Market LLC, but it's implied by the format of the table. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **The Nasdaq Stock Market LLC:**  A company.
+* **0.000% Notes due 2025:** A financial instrument (bond).
+* **0.875% Notes due 2025:** A financial instrument (bond).
+* **1.625% Notes due 2026:** A financial instrument (bond).
+* **2.000% Notes due 2027:** A financial instrument (bond).
+
+**Relationships:**
+
+* **Issued by:** The Nasdaq Stock Market LLC issued all the listed notes.
+* **Type:** All the listed notes are bonds.
+* **Interest Rate:** Each note has a specific interest rate (e.g., 0.000%, 0.875%, etc.).
+* **Maturity Date:** Each note has a specific maturity date (e.g., 2025, 2026, etc.).
+
+**Note:** The dashes (-) in the text likely represent a missing piece of information, such as the price or yield of the notes. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **The Nasdaq Stock Market LLC:**  A company.
+* **2.000% Notes due 2027:** A financial instrument (bond).
+* **1.375% Notes due 2029:** A financial instrument (bond).
+* **3.050% Notes due 2029:** A financial instrument (bond).
+* **0.500% Notes due 2031:** A financial instrument (bond).
+
+**Relationships:**
+
+* **Issued by:** The Nasdaq Stock Market LLC issued all the listed notes.
+* **Type:** All listed items are "Notes" (bonds).
+* **Interest Rate:** Each note has a specific interest rate (e.g., 2.000%, 1.375%, etc.).
+* **Maturity Date:** Each note has a specific maturity date (e.g., 2027, 2029, 2031).
+
+**Note:** The dashes (-) in the text likely indicate a missing piece of information, such as the price or yield of the notes. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **The Nasdaq Stock Market LLC** (Issuer)
+* **0.500% Notes due 2031** (Security)
+* **3.600% Notes due 2042** (Security)
+* **Registrant** (likely refers to The Nasdaq Stock Market LLC)
+* **Securities Exchange Act of 1934** (Legislation)
+
+**Relationships:**
+
+* **Issuance:** The Nasdaq Stock Market LLC issued the 0.500% Notes due 2031 and the 3.600% Notes due 2042.
+* **Regulation:** The Registrant (The Nasdaq Stock Market LLC) is subject to the Securities Exchange Act of 1934.
+* **Reporting:** The Registrant is required to file reports under Section 13 or 15(d) of the Securities Exchange Act of 1934.
+
+**Note:** The text is incomplete, so the exact nature of the reporting requirement and the relationship between the Registrant and the Securities Exchange Act of 1934 cannot be fully determined. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report.
+* **SEC (Securities and Exchange Commission):** The regulatory body overseeing the filing.
+* **Rule 405 of Regulation S-T:** A specific regulation governing electronic data filing.
+
+**Relationships:**
+
+* **Filing Requirement:** The Registrant is required to file reports with the SEC.
+* **Subject to Filing Requirements:** The Registrant has been subject to filing requirements for a specific period.
+* **Electronic Data Filing:** The Registrant is required to submit electronic data files according to Rule 405.
+* **Compliance:** The Registrant has indicated compliance with the electronic data filing requirements.
+
+**Other Information:**
+
+* **Time Period:** The report refers to a 12-month period and a 90-day period.
+* **Interactive Data File:** A specific type of electronic data file required by Rule 405.
+
+**Note:** The text does not explicitly mention the specific type of report being filed, but it is likely related to the Securities Exchange Act of 1934. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report.
+* **Exchange Act:** The Securities Exchange Act of 1934.
+* **Rule 12b-2:** A rule within the Exchange Act defining different filer categories.
+* **Large accelerated filer:** A type of filer defined by Rule 12b-2.
+* **Accelerated filer:** A type of filer defined by Rule 12b-2.
+* **Non-accelerated filer:** A type of filer defined by Rule 12b-2.
+* **Smaller reporting company:** A type of filer defined by Rule 12b-2.
+* **Emerging growth company:** A type of filer defined by Rule 12b-2.
+
+**Relationships:**
+
+* **Registrant is a type of filer:** The Registrant is classified as one of the filer categories defined by Rule 12b-2.
+* **Rule 12b-2 defines filer categories:** Rule 12b-2 provides definitions for the different filer categories (large accelerated filer, accelerated filer, non-accelerated filer, smaller reporting company, emerging growth company).
+* **Filer categories are defined by the Exchange Act:** The Exchange Act includes Rule 12b-2, which defines the filer categories.
+
+**Other Information:**
+
+* The Registrant is a large accelerated filer.
+* The Registrant is required to submit files for a period of 12 months or less.
+
+**Note:** The text does not explicitly state the specific type of filing or report being discussed. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Company:**  The subject of the filing.
+* **Rule 12b-2:** A rule within the Exchange Act.
+* **Exchange Act:**  Likely refers to the Securities Exchange Act of 1934.
+* **Large accelerated filer:** A type of filer defined by the SEC.
+* **Accelerated filer:** A type of filer defined by the SEC.
+* **Non-accelerated filer:** A type of filer defined by the SEC.
+* **Smaller reporting company:** A type of filer defined by the SEC.
+
+**Relationships:**
+
+* **Company is subject to:** Rule 12b-2 of the Exchange Act.
+* **Company is classified as:**  One of the following filer types:
+    * Large accelerated filer (marked with "☒")
+    * Accelerated filer (marked with "☐")
+    * Non-accelerated filer (marked with "☐")
+    * Smaller reporting company (marked with "☐")
+
+**Note:** The text indicates that the company is a "Large accelerated filer" based on the "☒" marking. 
+
+**Additional Information:**
+
+* The text likely comes from a SEC filing form.
+* The filer type classification is important for determining reporting requirements and deadlines. 
+This text only contains one entity: **Emerging growth company**. 
+
+There are no relationships present in this text. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **United States Securities and Exchange Commission (SEC)**
+* **Company filing the report (unknown)**
+
+**Relationships:**
+
+* The company is filing a **Form 10-Q** with the SEC.
+* The Form 10-Q is a **Quarterly Report** pursuant to **Section 13 or 15(d)** of the **Securities Act of 1934**.
+
+**Additional Information:**
+
+* The SEC is located in **Washington, D.C. 20549**.
+* The company is required to file the Form 10-Q because it is subject to **Section 13 or 15(d)** of the **Securities Act of 1934**.
+
+**Note:** The text does not provide the name of the company filing the report. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Quarterly Report:** A document filed with the Securities and Exchange Commission (SEC).
+* **Section 13 or 15(d) of the Securities Exchange Act of 1934:**  A legal provision requiring companies to file reports with the SEC.
+* **Securities and Exchange Commission (SEC):** A government agency responsible for regulating the securities market.
+* **Transition Report:** A document filed with the SEC during a transition period.
+
+**Relationships:**
+
+* **Quarterly Report** is filed **pursuant to** **Section 13 or 15(d) of the Securities Exchange Act of 1934**.
+* **Transition Report** is filed **pursuant to** **Section 13 or 15(d) of the Securities Exchange Act of 1934**.
+* **Both reports** are filed with the **SEC**.
+
+**Additional Information:**
+
+* The text indicates that the specific report being filed is a **Quarterly Report** for the period ending **September 30, 2022**.
+* The text also provides options for a **Transition Report**, but no specific dates are provided. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Amazon.com, Inc.** (Registrant)
+* **Commission File No. 000-22513** (File Number)
+
+**Relationships:**
+
+* **Amazon.com, Inc.** is the **registrant** associated with **Commission File No. 000-22513**.
+
+**Missing Information:**
+
+The text lacks the specific dates for the transition period. 
+
+**Possible Interpretations:**
+
+The text likely refers to a regulatory filing or a period of transition for Amazon.com, Inc. The missing dates could be found in the context of the full document. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Delaware:** State of incorporation or organization
+* **91-1646860:** I.R.S. Employer Identification Number (EIN)
+
+**Relationships:**
+
+* **Delaware** is the state of incorporation or organization for the entity with the **EIN 91-1646860**. 
+
+**Note:** The text lacks information about the specific entity. We only know the state of incorporation and the EIN. 
+It seems like you've provided a snippet of a legal document, likely a registration statement.  Let's break down the entities and relationships:
+
+**Entities:**
+
+* **Registrant:** This is the primary entity filing the registration statement.  We don't know the specific name of the registrant from this snippet.
+* **Securities and Exchange Commission (SEC):**  This is the regulatory body mentioned by the reference to "Securities registered pursuant to S."  The "S" likely refers to a specific SEC regulation or form.
+
+**Relationships:**
+
+* **Registrant to SEC:** The registrant is filing a registration statement with the SEC, likely to offer securities for sale.
+* **Registrant to Address:** The provided address is the registrant's principal executive offices.
+
+**Missing Information:**
+
+* **Registrant Name:**  We need more context to identify the specific company or organization filing the registration statement.
+* **Specific SEC Regulation:**  The "S" reference needs more context to determine the exact SEC regulation or form being referenced.
+
+**To get a more complete picture, you'd need the full document or more context.** 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Securities:**  Common Stock
+* **Company:**  (implied) Amazon.com, Inc. (based on the trading symbol AMZN)
+* **Exchange:** Nasdaq Global Select Market
+
+**Relationships:**
+
+* **Registration:** The Common Stock is registered pursuant to Section 12(b) of the Act.
+* **Trading Symbol:** The trading symbol for the Common Stock is AMZN.
+* **Listing:** The Common Stock is listed on the Nasdaq Global Select Market.
+
+**Additional Information:**
+
+* **Par Value:** The Common Stock has a par value of $0.01 per share. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company or organization filing the report.
+* **Securities Exchange Act of 1934:** A US federal law regulating the securities industry.
+* **Section 13 and 15(d):** Specific sections within the Securities Exchange Act of 1934 that require certain reports.
+
+**Relationships:**
+
+* **The registrant is required to file reports:** This is a legal obligation imposed by the Securities Exchange Act of 1934.
+* **The registrant is subject to filing requirements:** This indicates that the registrant is obligated to file reports under the Securities Exchange Act of 1934.
+* **The registrant has filed all required reports:** This is a statement about the registrant's compliance with the filing requirements.
+* **The registrant has submitted electronically every Interactive Data File:** This is a statement about the registrant's compliance with specific electronic filing requirements.
+
+**Note:** The text is incomplete, so it's impossible to extract all relevant entities and relationships. The missing portion likely contains information about the specific Interactive Data Files required. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report.
+* **Rule 405 of Regulation S-T:** A regulation governing electronic filing of financial data.
+* **Interactive Data File:** A specific type of electronic file containing financial data.
+
+**Relationships:**
+
+* **Submission Requirement:** The registrant is required to submit Interactive Data Files electronically according to Rule 405 of Regulation S-T.
+* **Timeframe:** The submission requirement applies for the preceding 12 months or a shorter period if the registrant was required to submit files for a shorter duration.
+* **Confirmation:** The registrant has confirmed that they have submitted all required Interactive Data Files electronically.
+* **Company Classification:** The registrant is classified as one of the following:
+    * Large accelerated filer
+    * Accelerated filer
+    * Non-accelerated filer
+    * Smaller reporting company
+    * Emerging growth company
+
+**Note:** The specific classification of the registrant is not provided in the text. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Large accelerated filer**
+* **Accelerated filer**
+* **Non-accelerated filer**
+* **Smaller reporting company**
+* **Emerging growth company**
+* **Rule 12b-2**
+* **Exchange Act**
+
+**Relationships:**
+
+* **Classification:** The text classifies entities based on their filing status under Rule 12b-2 of the Exchange Act.
+* **Exclusion:** The text indicates that the entity is a "large accelerated filer" and not an "accelerated filer," "non-accelerated filer," or "smaller reporting company."
+* **Regulation:** Rule 12b-2 of the Exchange Act governs the filing requirements for different types of companies.
+* **Exemption:** The text implies that "emerging growth company" is a separate category with its own filing requirements, potentially exempt from the classifications listed.
+
+**Note:** The text does not explicitly state whether the entity is an "emerging growth company." 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Emerging growth company:** A company that meets certain criteria for size and revenue.
+* **Shell company:** A company with minimal operations and assets, often created for financial manipulation.
+
+**Relationships:**
+
+* **Emerging growth company** is a **type of** **registrant**.
+* **Registrant** can **elect** to **not use** the **extended transition period** for complying with **financial accounting standards**.
+* **Registrant** can be a **shell company**.
+
+**Other Information:**
+
+* The text refers to **Section 13(a) of the Exchange Act** and **Rule 12b-2 of the Exchange Act**, which are legal regulations related to financial reporting.
+* The checkboxes indicate that the registrant needs to provide information about its status as an emerging growth company and a shell company. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:**  The company filing the registration.
+* **Common Stock:**  The type of stock issued by the registrant.
+* **Exchange Act:**  The Securities Exchange Act of 1934.
+
+**Relationships:**
+
+* **Registrant is not a shell company:**  This is stated explicitly in the text.
+* **Registrant has issued common stock:**  The text mentions 10,201,654,176 shares of common stock outstanding.
+* **Common stock has a par value:**  The par value of the common stock is $0.01 per share.
+* **Common stock outstanding as of a specific date:**  The number of shares outstanding is as of October 19, 2022.
+
+**Note:**  The text does not provide information about the registrant's name or industry. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **United States Securities and Exchange Commission (SEC)**
+* **Company filing the report** (not explicitly named, but implied by the form)
+
+**Relationships:**
+
+* **SEC** is the regulatory body that requires the filing of **Form 10-Q**.
+* The **company** is required to file **Form 10-Q** with the **SEC**.
+* **Form 10-Q** is a quarterly report filed by companies with the **SEC**.
+
+**Other Information:**
+
+* The report covers the quarterly period ended October 1, 2022.
+* The report is a **Quarterly Report** pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:**  (Exact name of registrant as specified in its charter) - This is the company filing the report.
+* **SEC:** Securities and Exchange Commission (implied by the reference to "Section 13 or 15(d) of the Securities Exchange Act of 1934")
+
+**Relationships:**
+
+* **Filing:** The registrant is filing a Transition Report with the SEC.
+* **Regulation:** The report is required by Section 13 or 15(d) of the Securities Exchange Act of 1934.
+* **Timeframe:** The report covers a specific transition period, with start and end dates not provided in the snippet.
+
+**Additional Information:**
+
+* **Commission File Number:** 000-06217Intel - This number likely identifies the registrant within the SEC's system. 
+
+**Note:** The text snippet lacks specific information about the registrant's name and the transition period dates.  Therefore, the entities and relationships are based on the general context of the document. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **INTEL CORPORATION:** A company
+* **Delaware:** A state
+* **2200 Mission College Boulevard:** An address
+
+**Relationships:**
+
+* **INTEL CORPORATION is incorporated in Delaware.** (Jurisdiction of incorporation)
+* **INTEL CORPORATION has an IRS Employer Identification Number of 94-1672743.** (Identification)
+* **INTEL CORPORATION is located at 2200 Mission College Boulevard.** (Address) 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Company:**  (We can't determine the company name from the provided text)
+* **Address:** 2200 Mission College Boulevard, Santa Clara, California 95054-1549
+* **Phone Number:** (408) 765-8080
+
+**Relationships:**
+
+* **Location:** The company's principal executive offices are located at the provided address.
+* **Contact:** The phone number is associated with the company. 
+
+**Note:** The text mentions "loyer Identification No." but doesn't provide the actual number. This could be a typo or an incomplete excerpt. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company or organization filing the report.
+* **Securities:** Financial instruments issued by the Registrant.
+
+**Relationships:**
+
+* **Telephone Number:** (408) 765-8080 is associated with the Registrant.
+* **Registration:** The Registrant's securities are registered under Section 12(b) of the Act.
+* **Title of each class:** This refers to the different types of securities issued by the Registrant.
+* **Trading Symbol(s):** These are the symbols used to identify the Registrant's securities on the stock exchange.
+
+**Missing Information:**
+
+* **Former name, former address and former fiscal year:** This information is not available (N/A).
+
+**Note:** The text provided is incomplete and lacks specific information about the Registrant and its securities. Therefore, the extracted entities and relationships are limited to the general context of the document. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report (not explicitly named, but likely Intel Corporation based on the trading symbol).
+* **Common Stock:** The type of security issued by the registrant.
+* **INTC:** The trading symbol for the registrant's common stock.
+* **Nasdaq Global Select Market:** The exchange where the registrant's common stock is registered.
+* **Securities Exchange Act of 1934:** The relevant legislation governing the reporting requirements.
+
+**Relationships:**
+
+* **Issuance:** The registrant has issued common stock.
+* **Trading:** The registrant's common stock is traded under the symbol INTC.
+* **Listing:** The registrant's common stock is listed on the Nasdaq Global Select Market.
+* **Regulation:** The registrant is subject to the reporting requirements of the Securities Exchange Act of 1934.
+* **Compliance:** The text implies a question about whether the registrant has filed all required reports under the Securities Exchange Act of 1934. 
+
+**Note:** The text is incomplete, so the exact nature of the relationship between the registrant and the Securities Exchange Act of 1934 is unclear. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company or organization filing the report.
+* **Exchange Act of 1934:** A US federal law regulating the securities industry.
+* **Rule 405 of Regulation S-T:** A regulation under the Exchange Act of 1934 that requires electronic filing of certain data.
+
+**Relationships:**
+
+* **The Registrant is subject to the Exchange Act of 1934.** This means the registrant is required to comply with the regulations of the Act.
+* **The Registrant is required to file reports under the Exchange Act of 1934.** This is a specific requirement of the Act.
+* **The Registrant is required to submit Interactive Data Files under Rule 405 of Regulation S-T.** This is a specific requirement of the regulation.
+
+**Other Information:**
+
+* The text indicates that the registrant has been subject to the filing requirements of the Exchange Act of 1934 for at least 90 days.
+* The text also indicates that the registrant has submitted all required Interactive Data Files electronically for the past 12 months.
+
+**Note:** The text does not provide specific details about the registrant, such as its name or industry. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company or organization filing the document.
+* **Large Accelerated Filer:** A type of filer defined by the SEC.
+* **Accelerated Filer:** A type of filer defined by the SEC.
+* **Non-accelerated Filer:** A type of filer defined by the SEC.
+* **Smaller Reporting Company:** A type of filer defined by the SEC.
+* **Emerging Growth Company:** A type of filer defined by the SEC.
+* **Rule 12b-2:** A rule of the Exchange Act defining filer categories.
+* **Exchange Act:** The Securities Exchange Act of 1934.
+
+**Relationships:**
+
+* **Registrant is a type of filer:** The registrant is classified as one of the filer categories defined by the SEC (Large Accelerated Filer, Accelerated Filer, Non-accelerated Filer, Smaller Reporting Company, or Emerging Growth Company).
+* **Filer categories are defined by Rule 12b-2:** The definitions of the filer categories are found in Rule 12b-2 of the Exchange Act.
+* **Rule 12b-2 is part of the Exchange Act:** Rule 12b-2 is a rule within the Securities Exchange Act of 1934.
+
+**Other Information:**
+
+* The text indicates that the registrant is required to submit files, but the specific type of files is not mentioned.
+* The text includes a checkbox for "Yes" and "No" but does not specify what the question is. 
+* The text includes a table with checkboxes for each filer category, suggesting that the registrant needs to select one category. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Emerging Growth Company:** A company that meets certain criteria for being considered a smaller, newer company.
+* **Accelerated Filer:** A company that meets certain criteria for being considered a larger, more established company.
+* **Non-accelerated Filer:** A company that does not meet the criteria for being an accelerated filer.
+* **Smaller Reporting Company:** A company that meets certain criteria for being considered a smaller company.
+
+**Relationships:**
+
+* **Classification:** The registrant is classified as an **Emerging Growth Company**.
+* **Election:** The registrant has **elected not to use the extended transition period** for complying with new or revised financial accounting standards.
+* **Compliance:** The extended transition period is related to **complying with new or revised financial accounting standards**.
+* **Section 13:** The extended transition period is provided pursuant to **Section 13** of some legislation (likely the Securities Act of 1933).
+
+**Note:** The specific legislation and the exact meaning of "Section 13" are not clear from the provided text. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Exchange Act:** The Securities Exchange Act of 1934.
+* **Rule 12b-2:** A rule under the Exchange Act defining a "shell company."
+* **Common Stock:** Shares of ownership in the registrant company.
+
+**Relationships:**
+
+* **Compliance:** The registrant is required to comply with financial accounting standards.
+* **Provision:** The financial accounting standards are provided pursuant to Section 13(a) of the Exchange Act.
+* **Definition:** The registrant is not a shell company as defined by Rule 12b-2 of the Exchange Act.
+* **Outstanding Shares:** The registrant had 4,127 million shares of common stock outstanding as of October 1, 2022.
+
+**Note:** The text does not explicitly state the nature of the registrant company or the specific financial accounting standards being referred to. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **United States Securities and Exchange Commission (SEC)**
+* **Company filing the report** (not explicitly named, but implied by the form)
+
+**Relationships:**
+
+* **SEC** is the regulatory body that requires the filing of **Form 10-Q**.
+* The **company** is required to file **Form 10-Q** with the **SEC**.
+* **Form 10-Q** is a quarterly report filed by companies with the **SEC**.
+
+**Other Information:**
+
+* The report covers the quarterly period ended September 30, 2022.
+* The report is filed pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Microsoft Corporation:** A company.
+* **SEC (Securities and Exchange Commission):** A government agency.
+* **Transition Report:** A document.
+* **Section 13 or 15(d) of the Securities Exchange Act of 1934:** A legal document.
+* **Washington:** A state.
+
+**Relationships:**
+
+* **Microsoft Corporation** is filing a **Transition Report** pursuant to **Section 13 or 15(d) of the Securities Exchange Act of 1934**.
+* **Microsoft Corporation** is incorporated in **Washington**.
+* **Microsoft Corporation** has a **Commission File Number** of **001-37845**.
+
+**Other Information:**
+
+* The **Transition Report** covers a specific **Transition Period** (dates not provided).
+* The **Commission File Number** is a unique identifier assigned by the **SEC**. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Microsoft** (Company)
+* **State of Incorporation** (Location)
+* **I.R.S.** (Organization)
+* **Securities and Exchange Commission** (Organization)
+* **Section 12(b) of the Act** (Legal document)
+* **Title of each class** (Security type)
+* **Trading Symbol** (Financial identifier)
+* **Name of exchange** (Financial market)
+
+**Relationships:**
+
+* **Microsoft** is incorporated in a **State of Incorporation**.
+* **Microsoft** has an **I.R.S. ID**.
+* **Microsoft** is registered with the **Securities and Exchange Commission** pursuant to **Section 12(b) of the Act**.
+* **Microsoft** has **Securities** registered with the **Securities and Exchange Commission**.
+* **Securities** have a **Title of each class**, a **Trading Symbol**, and are registered on a **Name of exchange**.
+
+**Additional Information:**
+
+* **One Microsoft Way, Redmond, Washington 98052-6399** is the address of Microsoft.
+* **(425) 882-8080** is the phone number of Microsoft.
+* **www.microsoft.com/investor** is the website for Microsoft's investor relations.
+
+**Note:** This analysis is based on the provided text snippet. More information about the entities and relationships might be available in the full document. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Common stock:** A type of security representing ownership in a company.
+* **3.125% Notes due 2028:** A type of debt security with a fixed interest rate and maturity date.
+* **2.625% Notes due 2033:** A type of debt security with a fixed interest rate and maturity date.
+* **MSFT:** The trading symbol for Microsoft Corporation.
+* **NASDAQ:** The National Association of Securities Dealers Automated Quotations, a stock exchange.
+
+**Relationships:**
+
+* **Registered on:**  Common stock, 3.125% Notes due 2028, and 2.625% Notes due 2033 are all registered on the NASDAQ exchange.
+* **Trading Symbol:** MSFT is the trading symbol for all three securities (common stock, 3.125% Notes due 2028, and 2.625% Notes due 2033).
+
+**Note:** The text also mentions a "registrant," but it doesn't specify what or who that is. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report.
+* **Securities Exchange Act of 1934:** A US federal law regulating the securities industry.
+* **Regulation S-T:** A set of rules governing electronic submissions of filings with the Securities and Exchange Commission (SEC).
+* **Rule 405:** A specific rule within Regulation S-T.
+* **Interactive Data File:** A specific type of electronic file required by Rule 405.
+
+**Relationships:**
+
+* **The registrant is subject to the Securities Exchange Act of 1934.** This means the registrant is required to file reports with the SEC.
+* **The registrant is required to file reports under Section 13 or 15(d) of the Securities Exchange Act of 1934.** These sections specify the types of reports required.
+* **The registrant is required to submit Interactive Data Files electronically under Rule 405 of Regulation S-T.** This means the registrant must use a specific format and method for submitting certain data.
+
+**Other Information:**
+
+* The text indicates that the registrant has filed all required reports for the past 12 months and has been subject to filing requirements for the past 90 days.
+* The text also indicates that the registrant has submitted all required Interactive Data Files electronically.
+
+**Note:** The text is incomplete, so there may be other entities and relationships not mentioned. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report.
+* **Rule 405 of Regulation S-T:** A regulation governing the submission of interactive data files.
+* **§232.405:** A specific section within the regulation.
+* **Large accelerated filer:** A type of filer defined by the SEC.
+* **Accelerated filer:** A type of filer defined by the SEC.
+* **Non-accelerated filer:** A type of filer defined by the SEC.
+* **Smaller reporting company:** A type of filer defined by the SEC.
+* **Emerging growth company:** A type of filer defined by the SEC.
+* **Rule 12b-2:** A rule defining the types of filers.
+* **SEC:** The Securities and Exchange Commission.
+
+**Relationships:**
+
+* **The registrant is required to submit interactive data files pursuant to Rule 405 of Regulation S-T.**
+* **The registrant is classified as one of the following filer types: large accelerated filer, accelerated filer, non-accelerated filer, smaller reporting company, or emerging growth company.**
+* **The definitions of the filer types are found in Rule 12b-2 of the SEC.**
+
+**Note:** The text does not provide specific information about the registrant, so the relationships are general in nature. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Rule 12b-2:** A rule within the Exchange Act.
+* **Exchange Act:**  A law regulating the securities industry.
+* **Large Accelerated Filer:** A type of company classification.
+* **Accelerated Filer:** A type of company classification.
+* **Non-accelerated Filer:** A type of company classification.
+* **Smaller Reporting Company:** A type of company classification.
+* **Emerging Growth Company:** A type of company classification.
+
+**Relationships:**
+
+* **Rule 12b-2 defines:** "smaller reporting company," "emerging growth company," and "accelerated filer."
+* **The company is classified as:**  
+    * **Large Accelerated Filer:** (Marked with "☒")
+    * **Not an Accelerated Filer:** (Marked with "☐")
+    * **Not a Non-accelerated Filer:** (Marked with "☐")
+    * **Not a Smaller Reporting Company:** (Marked with "☐")
+    * **Not an Emerging Growth Company:** (Marked with "☐")
+
+**Note:** The text indicates that the company is a Large Accelerated Filer, but not any of the other classifications. 
+## Entities and Relationships Extracted:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Emerging Growth Company:** A company that meets certain criteria for being considered a smaller, newer company.
+* **Issuer:** The company issuing the stock.
+
+**Relationships:**
+
+* **Emerging Growth Company and Registrant:** The registrant is an emerging growth company.
+* **Registrant and Shell Company:** The registrant is not a shell company.
+* **Issuer and Registrant:** The registrant is the issuer of the stock.
+
+**Other Information:**
+
+* The registrant has not elected to use the extended transition period for complying with new or revised financial accounting standards.
+* The document requests the number of shares outstanding for each class of common stock issued by the company. 
+
+**Note:** This analysis is based on the provided text snippet. A complete understanding of the entities and relationships would require access to the full document and context. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Issuer:** The company issuing the stock.
+* **Common Stock:** The type of stock being discussed.
+* **Shares:** Units of ownership in the company.
+
+**Relationships:**
+
+* **Issued by:** The Issuer issued the Common Stock.
+* **Outstanding:** The number of shares outstanding represents the total number of shares held by investors.
+* **Class:** The Common Stock is a specific class of stock.
+* **Par Value:** The Common Stock has a par value of $0.00000625 per share.
+* **Date:** The number of shares outstanding was measured as of October 20, 2022.
+
+**Data:**
+
+* **Number of Shares Outstanding:** 7,454,473,144 shares
+* **Date:** October 20, 2022
+
+**Note:** The text does not provide the name of the issuer, so it remains an unspecified entity. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **United States Securities and Exchange Commission (SEC)**
+* **Company filing the report (not specified)**
+
+**Relationships:**
+
+* The company is filing a **Form 10-Q** with the SEC.
+* The report is a **Quarterly Report** pursuant to **Section 13 or 15(d) of the Securities Exchange Act of 1934**.
+* The report covers the **quarterly period ended October 30, 2022**.
+
+**Additional Information:**
+
+* The SEC is located in **Washington, D.C. 20549**.
+* The company filing the report has marked the box for **Quarterly Report**. 
+
+**Note:** The text does not provide the name of the company filing the report. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **E ACT of 1934:**  A law (likely the Securities Exchange Act of 1934)
+* **NVIDIA:** A company
+* **Commission file number 0-23985:**  A unique identifier assigned to NVIDIA by a regulatory body (likely the Securities and Exchange Commission)
+
+**Relationships:**
+
+* **NVIDIA** is subject to the **E ACT of 1934**.
+* **NVIDIA** is assigned **Commission file number 0-23985** by the regulatory body.
+
+**Additional Information:**
+
+* The text mentions a "quarterly period ended October 30, 2022," suggesting that this is a financial report.
+* The text also mentions a "transition report," which could indicate a change in the company's reporting status.
+
+**Note:** The text is incomplete and lacks context. It's difficult to extract all relevant entities and relationships without the full document. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **NVIDIA CORPORATION** (Registrant)
+* **Delaware** (State of Incorporation)
+* **I.R.S.** (Internal Revenue Service)
+
+**Relationships:**
+
+* **NVIDIA CORPORATION** is incorporated in **Delaware**.
+* **NVIDIA CORPORATION** has an **I.R.S. Employer Identification Number** (EIN) of **94-3177549**. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Organization:**  (Not explicitly named, but implied by the address and phone number)
+* **Address:** 2788 San Tomas Expressway, Santa Clara, California 95051
+* **City:** Santa Clara
+* **State:** California
+* **Zip Code:** 95051
+* **Phone Number:** (408) 486-2000
+
+**Relationships:**
+
+* **Location:** The organization is located at the address provided.
+* **Contact:** The phone number is the contact information for the organization. 
+
+**Note:** The text is incomplete, so it's impossible to determine the exact nature of the organization or its purpose. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Principal executive offices:** This refers to the main offices of a company.
+* **Area code:** A numerical code that identifies a geographic region for telephone numbers.
+* **Former name:** The previous name of a company.
+* **Former address:** The previous address of a company.
+* **Former fiscal year:** The previous fiscal year of a company.
+* **Securities:** Financial instruments representing ownership in a company.
+* **Section 12(b) of the Act:**  Likely refers to a specific section of a legal act, possibly the Securities Act of 1933.
+
+**Relationships:**
+
+* **Principal executive offices** have a **telephone number** including an **area code**.
+* **Former name**, **former address**, and **former fiscal year** are related to a company that has **changed since last report**.
+* **Securities** are **registered pursuant to Section 12(b) of the Act**.
+* **Title of each class** is related to the **trading** of **securities**.
+
+**Note:** The text is incomplete and lacks context. It's likely a fragment of a larger document, possibly a legal or financial report.  Without more information, it's difficult to determine the exact nature of the entities and relationships. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report (not explicitly named, but likely NVIDIA Corporation)
+* **Common Stock:** The type of security being reported on
+* **NVDA:** The trading symbol for the company's common stock
+* **The Nasdaq Global Select Market:** The stock exchange where the common stock is registered
+
+**Relationships:**
+
+* **Issuance:** The registrant (NVIDIA Corporation) has issued common stock.
+* **Trading:** The common stock is traded under the symbol NVDA.
+* **Listing:** The common stock is listed on The Nasdaq Global Select Market.
+* **Reporting:** The registrant is required to file reports with the Securities Exchange Act of 1934.
+
+**Additional Information:**
+
+* The text mentions a par value of $0.001 per share for the common stock.
+* The text indicates that the registrant is required to file reports with the Securities Exchange Act of 1934.
+
+**Note:** The text is incomplete, so it's impossible to extract all relevant entities and relationships. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report.
+* **SEC (Securities and Exchange Commission):** The regulatory body overseeing the filing.
+* **Rule 405 of Regulation S-T:** A specific regulation regarding Interactive Data Files.
+* **Interactive Data File:** A specific type of file required by the SEC.
+
+**Relationships:**
+
+* **The Registrant is subject to filing requirements:** The Registrant is obligated to file reports with the SEC.
+* **The Registrant has submitted Interactive Data Files:** The Registrant has complied with the requirements of Rule 405 of Regulation S-T.
+* **The Registrant is a large accelerated filer:** This relationship is not explicitly stated but implied by the incomplete sentence.
+
+**Other Information:**
+
+* **Time periods:** The text mentions specific time periods (12 months, 90 days) relevant to the filing requirements.
+* **Check marks:** The text uses check marks to indicate "Yes" or "No" answers to specific questions.
+
+**Note:** The text is incomplete, so the full context and potential relationships are not fully clear. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Large accelerated filer:** A type of filer defined by the SEC.
+* **Accelerated filer:** A type of filer defined by the SEC.
+* **Non-accelerated filer:** A type of filer defined by the SEC.
+* **Smaller reporting company:** A type of filer defined by the SEC.
+* **Emerging growth company:** A type of filer defined by the SEC.
+* **Rule 12b-2:** A rule of the Exchange Act defining filer categories.
+* **Exchange Act:** The Securities Exchange Act of 1934.
+
+**Relationships:**
+
+* **The registrant is a large accelerated filer.** (This is indicated by the checkmark).
+* **The registrant is not an accelerated filer, non-accelerated filer, smaller reporting company, or emerging growth company.** (This is indicated by the lack of checkmarks).
+* **The definitions of filer categories are found in Rule 12b-2 of the Exchange Act.**
+
+**Note:** The text is incomplete, so the full context of the relationships is unclear. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report.
+* **Emerging Growth Company:** A company that meets certain criteria for being considered an emerging growth company.
+* **Shell Company:** A company with minimal operations and assets, often created for speculative purposes.
+
+**Relationships:**
+
+* **Registrant is NOT an Emerging Growth Company:**  The checkbox for "Emerging Growth Company" is unchecked.
+* **Registrant is NOT a Shell Company:** The checkbox for "Shell Company" is unchecked.
+* **Registrant has Common Stock:** The report mentions the number of shares of common stock outstanding.
+* **Common Stock has a Par Value:** The common stock has a par value of $0.001.
+* **Number of Shares Outstanding:** As of November 11, 2022, there were 2.46 billion shares of common stock outstanding.
+
+**Additional Information:**
+
+* The text mentions the "Exchange Act," which likely refers to the Securities Exchange Act of 1934.
+* The text mentions "Section 13(a) of the Exchange Act," which likely refers to a section related to financial reporting requirements.
+* The text mentions "Rule 12b-2 of the Exchange Act," which likely refers to a rule defining "shell company." 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Value:**  A numerical representation of something.
+* **November 11, 2022:** A specific date.
+* **2.46 billion:** A numerical value.
+
+**Relationships:**
+
+* **Value is associated with:** November 11, 2022.
+* **Value is equal to:** 2.46 billion. 
+
+**Interpretation:**
+
+The text states that the value, as of November 11, 2022, was 2.46 billion. This suggests that the value is a financial or economic measure, possibly representing something like a company's market capitalization or a country's GDP. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **United States Securities and Exchange Commission (SEC)**
+* **Company filing the report (not specified)**
+
+**Relationships:**
+
+* The company is filing a **Form 10-Q** with the SEC.
+* The report is a **Quarterly Report** pursuant to **Section 13 or 15(d) of the Securities Exchange Act of 1934**.
+* The report covers the **quarterly period ended December 31, 2022**. 
+
+**Note:** The text does not provide the name of the company filing the report. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Company:**  The company filing the report (not explicitly named, but implied by the context).
+* **SEC:** Securities and Exchange Commission
+* **Section 13/15(d) of the Securities Exchange Act of 1934:**  Relevant legal sections governing reporting requirements.
+
+**Relationships:**
+
+* **Reporting Obligation:** The company is obligated to file a report with the SEC.
+* **Legal Framework:** The report is governed by specific sections of the Securities Exchange Act of 1934.
+* **Filing Period:** The report covers the quarterly period ended December 31, 2022.
+* **Commission File Number:** The company has a specific file number with the SEC (001-36743).
+
+**Note:** The text also mentions a "Transition Report" which suggests a potential change in the company's reporting status. However, the specific details of this transition are not provided. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Apple Inc.** (Registrant)
+* **California** (State or jurisdiction)
+* **001-36743** (File Number)
+* **94-2404110** (I.R.S. Employer Identification No.)
+
+**Relationships:**
+
+* **Apple Inc.** is the **registrant** associated with **File Number 001-36743**.
+* **Apple Inc.** is located in **California**.
+* **94-2404110** is the **I.R.S. Employer Identification No.** of **Apple Inc.** 
+## Entities and Relationships:
+
+**Entities:**
+
+* **IRS:** Internal Revenue Service (implied)
+* **Company:**  (Name of the company is missing, but it's implied by the context)
+* **Apple Park Way:**  Address of the company's principal executive offices
+* **Cupertino:** City where the company's principal executive offices are located
+* **California:** State where the company's principal executive offices are located
+* **95014:** Zip Code of the company's principal executive offices
+
+**Relationships:**
+
+* **Company is located at:** Apple Park Way, Cupertino, California 95014
+* **Company has an:** IRS Employer Identification Number (EIN)
+* **Company is incorporated or organized in:** (State of incorporation/organization is missing) 
+
+**Missing Information:**
+
+* The name of the company is not provided.
+* The state of incorporation or organization is not provided. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Zip Code:**  (This is a placeholder, the actual zip code is missing from the text)
+* **Registrant:**  (This is a placeholder, the actual name of the registrant is missing from the text)
+* **Common Stock:**  (This is the type of security)
+* **Exchange:**  (This is a placeholder, the name of the exchange is missing from the text)
+
+**Relationships:**
+
+* **Registrant has a telephone number:** (408) 996-1010
+* **Registrant has registered securities:** Common Stock
+* **Common Stock is registered on an exchange:** (The name of the exchange is missing)
+
+**Missing Information:**
+
+* The actual zip code is missing.
+* The actual name of the registrant is missing.
+* The name of the exchange where the Common Stock is registered is missing. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **AAPL:**  A company (presumably Apple Inc.)
+* **Common Stock:** A type of security
+* **1.375% Notes due 2024:** A type of debt security
+* **0.000% Notes due 2025:** A type of debt security
+* **0.875% Notes due:** A type of debt security
+* **The Nasdaq Stock Market LLC:** A stock exchange
+
+**Relationships:**
+
+* **Registered on:** AAPL's Common Stock is registered on The Nasdaq Stock Market LLC.
+* **Registered on:** AAPL's 1.375% Notes due 2024 are registered on The Nasdaq Stock Market LLC.
+* **Registered on:** AAPL's 0.000% Notes due 2025 are registered on The Nasdaq Stock Market LLC.
+* **Registered on:** AAPL's 0.875% Notes due are registered on The Nasdaq Stock Market LLC.
+
+**Note:** The text does not specify the exchange on which the 0.875% Notes due are registered. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **The Nasdaq Stock Market LLC:**  A company.
+* **0.875% Notes due 2025:** A financial instrument (bond).
+* **1.625% Notes due 2026:** A financial instrument (bond).
+* **2.000% Notes due 2027:** A financial instrument (bond).
+* **1.375% Notes due 2029:** A financial instrument (bond).
+
+**Relationships:**
+
+* **Issued by:** The Nasdaq Stock Market LLC issued all four bonds.
+* **Type:** All four bonds are "Notes".
+* **Interest Rate:** Each bond has a specific interest rate (0.875%, 1.625%, 2.000%, 1.375%).
+* **Maturity Date:** Each bond has a specific maturity date (2025, 2026, 2027, 2029).
+
+**Note:** The dashes between the bond information and "The Nasdaq Stock Market LLC" likely indicate a missing piece of information, such as the bond's price or yield. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **The Nasdaq Stock Market LLC:**  A company.
+* **1.375% Notes due 2029:** A financial instrument (bond).
+* **3.050% Notes due 2029:** A financial instrument (bond).
+* **0.500% Notes due 2031:** A financial instrument (bond).
+* **3.600% Notes due 2042:** A financial instrument (bond).
+
+**Relationships:**
+
+* **Issued by:** The Nasdaq Stock Market LLC issued all four bonds.
+* **Type:** All four bonds are "Notes".
+* **Interest Rate:** Each bond has a specific interest rate (1.375%, 3.050%, 0.500%, 3.600%).
+* **Maturity Date:** Each bond has a specific maturity date (2029, 2029, 2031, 2042). 
+
+**Note:** The dashes (-) in the text likely indicate a missing piece of information, such as the bond's price or yield. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Nasdaq Stock Market LLC:**  A company issuing bonds.
+* **Registrant:**  The entity filing the report (likely Nasdaq Stock Market LLC).
+* **Securities Exchange Act of 1934:**  A US law regulating securities markets.
+
+**Relationships:**
+
+* **Issuance:** Nasdaq Stock Market LLC issued 3.600% Notes due 2042.
+* **Regulation:** The Registrant (Nasdaq Stock Market LLC) is subject to the Securities Exchange Act of 1934.
+* **Reporting:** The Registrant is required to file reports under the Securities Exchange Act of 1934.
+
+**Additional Information:**
+
+* **3.600% Notes due 2042:**  This refers to a specific type of bond issued by Nasdaq Stock Market LLC. 
+* **Section 13 or 15(d):** These are sections within the Securities Exchange Act of 1934 that specify reporting requirements for companies. 
+
+**Note:** The text does not explicitly state whether the Registrant has filed all required reports. It only asks for a checkmark indicating whether they have. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company or organization filing the document.
+* **Rule 405 of Regulation S-T:** A regulation governing electronic filing requirements.
+* **Interactive Data File:** A specific type of electronic file required by the regulation.
+
+**Relationships:**
+
+* **The Registrant is required to submit Interactive Data Files:** This is stated explicitly in the text.
+* **The Registrant has submitted all required Interactive Data Files:** This is indicated by the checkmark in the "Yes" box.
+* **The requirement to submit Interactive Data Files is governed by Rule 405 of Regulation S-T:** This is stated explicitly in the text.
+
+**Note:** The text does not provide information about the specific content of the Interactive Data Files or the purpose of their submission. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Large accelerated filer:** A type of filer defined by the SEC.
+* **Accelerated filer:** Another type of filer defined by the SEC.
+* **Non-accelerated filer:** A type of filer defined by the SEC.
+* **Smaller reporting company:** A type of filer defined by the SEC.
+* **Emerging growth company:** A type of filer defined by the SEC.
+* **Rule 12b-2:** A rule of the Exchange Act that defines the filer types.
+* **Exchange Act:** The Securities Exchange Act of 1934.
+
+**Relationships:**
+
+* **The Registrant is a Large accelerated filer.** (This is the primary relationship indicated by the checkmark.)
+* **The filer types are defined by Rule 12b-2 of the Exchange Act.**
+* **The filer types are defined by the SEC.**
+
+**Note:** The text does not explicitly state that the Registrant is *not* an accelerated filer, non-accelerated filer, smaller reporting company, or emerging growth company. However, the checkmark next to "Large accelerated filer" implies that the Registrant does not fall into any of the other categories. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Accelerated filer**
+* **Non-accelerated filer**
+* **Smaller reporting company**
+* **Emerging growth company**
+
+**Relationships:**
+
+* **Mutual exclusion:** The entities are mutually exclusive, meaning a company can only be classified as one of them. This is indicated by the checkboxes, where only one can be selected. 
+
+**Note:** The text itself doesn't provide any specific information about the entities or their characteristics. It only presents them as options for classification. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **United States Securities and Exchange Commission (SEC)**
+* **Company filing the report (unknown)**
+
+**Relationships:**
+
+* The company is filing a **Form 10-Q** with the SEC.
+* The Form 10-Q is a **Quarterly Report** pursuant to **Section 13 or 15(d)** of the **Securities Act of 1934**.
+
+**Additional Information:**
+
+* The SEC is located in **Washington, D.C. 20549**.
+* The company is required to file the Form 10-Q because it is subject to **Section 13 or 15(d)** of the **Securities Act of 1934**.
+
+**Note:** The text does not provide the name of the company filing the report. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Quarterly Report:** A document filed with the Securities and Exchange Commission (SEC).
+* **Section 13 or 15(d) of the Securities Exchange Act of 1934:**  A legal provision requiring companies to file periodic reports with the SEC.
+* **Securities and Exchange Commission (SEC):** A government agency responsible for regulating the securities market.
+* **Transition Report:** A document filed with the SEC during a transition period.
+
+**Relationships:**
+
+* **Quarterly Report** is filed **pursuant to** **Section 13 or 15(d) of the Securities Exchange Act of 1934**.
+* **Transition Report** is filed **pursuant to** **Section 13 or 15(d) of the Securities Exchange Act of 1934**.
+* **Both reports** are filed with the **SEC**.
+
+**Additional Information:**
+
+* The text indicates that the report is for the quarterly period ended March 31, 2023.
+* The text also mentions a transition period, but the specific dates are not provided. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Amazon.com, Inc.** (Registrant)
+* **Commission File No. 000-22513** (File Number)
+
+**Relationships:**
+
+* **Amazon.com, Inc.** is the **registrant** associated with **Commission File No. 000-22513**.
+
+**Missing Information:**
+
+The text lacks the specific dates for the transition period. 
+
+**Possible Inferences:**
+
+* The text likely comes from a legal document, possibly a SEC filing.
+* The transition period might refer to a change in the company's structure, operations, or reporting requirements. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Delaware:** State of incorporation or organization
+* **91-1646860:** I.R.S. Employer Identification Number (EIN)
+
+**Relationships:**
+
+* **Delaware** is the state of incorporation or organization for the entity with the **EIN 91-1646860**.
+
+**Note:** The text lacks information about the specific entity. We only know the state of incorporation and the EIN. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:**  The organization or company that is registering securities.
+* **Seattle, Washington:**  The location of the registrant's principal executive offices.
+
+**Relationships:**
+
+* **Location:** The registrant's principal executive offices are located in Seattle, Washington.
+* **Contact Information:** The registrant's address and phone number are provided. 
+
+**Additional Information:**
+
+* The text mentions "Securities registered pursuant to Se..." which suggests that the registrant is involved in some form of securities registration. 
+* The text also includes an "Identification No." which is likely a unique identifier for the registrant. 
+
+**Note:** The text is incomplete, so it's difficult to extract all relevant entities and relationships. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Securities:** Common Stock
+* **Company:**  (implied) -  The company issuing the common stock is likely Amazon.com, Inc. (based on the trading symbol "AMZN")
+* **Exchange:** Nasdaq Global Select Market
+
+**Relationships:**
+
+* **Registration:** The common stock is registered pursuant to Section 12(b) of the Act (likely the Securities Act of 1933).
+* **Trading Symbol:** The common stock is traded under the symbol "AMZN".
+* **Listing:** The common stock is listed on the Nasdaq Global Select Market.
+
+**Additional Information:**
+
+* **Par Value:** The common stock has a par value of $0.01 per share.
+* **Act:**  The text refers to "the Act," which likely refers to the Securities Act of 1933. 
+
+**Note:**  While the text doesn't explicitly state the company name, the trading symbol "AMZN" strongly suggests it's Amazon.com, Inc. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company or organization filing the report.
+* **Securities Exchange Act of 1934:** A US federal law regulating the securities industry.
+* **Section 13 and 15(d):** Specific sections within the Securities Exchange Act of 1934 that require certain reports.
+* **Interactive Data File:** A specific type of electronic file required by the Securities Exchange Act.
+
+**Relationships:**
+
+* **The Registrant is required to file reports:**  This is a legal obligation imposed by the Securities Exchange Act of 1934.
+* **The Registrant is subject to filing requirements:** This indicates that the Registrant is obligated to file reports under the Securities Exchange Act.
+* **The Registrant has filed all required reports:** This indicates that the Registrant has fulfilled its legal obligation to file reports.
+* **The Registrant has submitted all required Interactive Data Files electronically:** This indicates that the Registrant has fulfilled its obligation to submit electronic files.
+
+**Note:** The text is incomplete, so we can't extract all possible entities and relationships. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Interactive Data File:** A specific type of file required by the SEC.
+* **Rule 405 of Regulation S-T:** A regulation governing electronic submissions.
+* **SEC (Securities and Exchange Commission):** The regulatory body overseeing the filing.
+* **Large accelerated filer:** A company meeting specific criteria for filing frequency and size.
+* **Accelerated filer:** A company meeting specific criteria for filing frequency and size.
+* **Non-accelerated filer:** A company not meeting the criteria for accelerated filers.
+* **Smaller reporting company:** A company meeting specific criteria for size and revenue.
+* **Emerging growth company:** A company meeting specific criteria for revenue and age.
+
+**Relationships:**
+
+* **The registrant is required to submit Interactive Data Files pursuant to Rule 405 of Regulation S-T.**
+* **The registrant has submitted all required Interactive Data Files electronically in the past 12 months.**
+* **The registrant is categorized as one of the following: large accelerated filer, accelerated filer, non-accelerated filer, smaller reporting company, or emerging growth company.**
+
+**Note:** The text does not explicitly state which category the registrant falls into. It only provides a checkbox for each category. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Large accelerated filer**
+* **Accelerated filer**
+* **Non-accelerated filer**
+* **Smaller reporting company**
+* **Emerging growth company**
+* **Rule 12b-2**
+* **Exchange Act**
+
+**Relationships:**
+
+* **Classification:** The text classifies companies into different categories based on their size and reporting requirements.
+* **Rule 12b-2:** The text refers to Rule 12b-2 of the Exchange Act, which likely defines these categories.
+* **Exclusion:** The text indicates that a company can be classified as a "large accelerated filer" but not an "accelerated filer" at the same time.
+* **Optionality:** The text suggests that a company can be classified as either a "non-accelerated filer" or a "smaller reporting company," but not both.
+
+**Note:** The text does not explicitly mention any relationships between "emerging growth company" and the other categories. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Emerging Growth Company:** A company that meets certain criteria defined by the Securities and Exchange Commission (SEC).
+* **SEC:** Securities and Exchange Commission.
+
+**Relationships:**
+
+* **Emerging Growth Company and Registrant:** The registrant is an emerging growth company.
+* **Registrant and SEC:** The registrant is subject to regulations by the SEC.
+* **Registrant and Exchange Act:** The registrant is required to comply with the Exchange Act.
+* **Registrant and Financial Accounting Standards:** The registrant may be required to comply with new or revised financial accounting standards.
+
+**Other Information:**
+
+* The text mentions a "transition period" for complying with new or revised financial accounting standards. This suggests that there are different timelines for compliance depending on the company's status.
+* The text also mentions a "shell company" definition, which implies that the registrant is not a shell company.
+
+**Note:** This analysis is based on the provided text and may not capture all possible entities and relationships. Further context is needed for a more comprehensive understanding. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:**  The company filing the registration.
+* **Shell Company:** A company with no real business operations, often used for fraudulent purposes.
+* **Common Stock:** Shares of ownership in the company.
+
+**Relationships:**
+
+* **Registrant is not a Shell Company:** This is explicitly stated in the text.
+* **Common Stock Outstanding:** The registrant has 10,260,353,688 shares of common stock outstanding as of April 19, 2023.
+
+**Additional Information:**
+
+* **Par Value:** The nominal value of each share of common stock is $0.01.
+* **Date:** The information about the outstanding shares is current as of April 19, 2023.
+
+**Note:** The text does not provide any information about the name of the registrant or the nature of its business. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **UNITED STATES SECURITIES AND EXCHANGE COMMISSION** (Organization)
+* **SEC** (Abbreviation for the organization)
+* **Form 10-Q** (Document)
+* **Quarterly Report** (Document type)
+* **Securities Exchange Act of 1934** (Law)
+* **Transition Report** (Document type)
+
+**Relationships:**
+
+* **SEC** is the organization responsible for **Form 10-Q**.
+* **Form 10-Q** is a document filed pursuant to the **Securities Exchange Act of 1934**.
+* **Quarterly Report** and **Transition Report** are types of **Form 10-Q**.
+* **Form 10-Q** is filed for a specific **quarterly period** (in this case, ending April 1, 2023).
+
+**Additional Information:**
+
+* The text mentions a **transition period**, but does not specify the dates.
+* The text does not mention any specific company or organization filing the **Form 10-Q**. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **URITIES EXCHANGE ACT OF 1934** (Act)
+* **intel** (Company)
+* **INTEL CORPORATION** (Company)
+* **Delaware** (State)
+
+**Relationships:**
+
+* **intel** is the **exact name of registrant** as specified in its charter.
+* **INTEL CORPORATION** is the **registrant** under the **URITIES EXCHANGE ACT OF 1934**.
+* **INTEL CORPORATION** is incorporated in **Delaware**.
+* **Commission File Number: 000-06217** is associated with **INTEL CORPORATION**.
+* **94-1672743** is associated with **INTEL CORPORATION**.
+
+**Missing Information:**
+
+* The text does not specify the transition period dates. 
+* The text does not specify the type of filing or document. 
+
+**Assumptions:**
+
+* The text likely refers to a filing made by INTEL CORPORATION under the Securities Exchange Act of 1934.
+* The "Commission File Number" and "94-1672743" are likely identifiers assigned by the Securities and Exchange Commission (SEC). 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Delaware:** State of incorporation
+* **2200 Mission College Boulevard:** Address of principal executive offices
+* **Santa Clara:** City
+* **California:** State
+* **95054-1549:** Zip Code
+* **94-1672743:** IRS Employer Identification Number
+
+**Relationships:**
+
+* **Delaware** is the state of incorporation for the entity.
+* **2200 Mission College Boulevard, Santa Clara, California 95054-1549** is the address of the principal executive offices of the entity.
+* **94-1672743** is the IRS Employer Identification Number of the entity. 
+
+**Note:** The text does not provide the name of the entity. 
+## Entities and Relationships Extracted:
+
+**Entities:**
+
+* **Registrant:** The entity filing the report.
+* **Securities:** Financial instruments registered under Section 12(b) of the Act.
+
+**Relationships:**
+
+* **Registrant's telephone number:**  The phone number is associated with the Registrant.
+* **Former name, former address, former fiscal year:** These are attributes of the Registrant, indicating potential changes since the last report.
+* **Title of each class:**  This refers to the type of securities being registered.
+* **Trading symbol(s):** These are symbols used to identify the securities on the market.
+
+**Missing Information:**
+
+The provided text lacks specific information about the Registrant, the securities being registered, and the trading symbols.  It only provides the structure for reporting this information. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report (not explicitly named, but likely Intel Corporation based on the trading symbol).
+* **Common Stock:** The type of security being reported on.
+* **INTC:** The trading symbol for the company's common stock.
+* **Nasdaq Global Select Market:** The exchange where the stock is registered.
+* **Securities Exchange Act of 1934:** The relevant legislation governing reporting requirements.
+
+**Relationships:**
+
+* **Registered:** The common stock is registered on the Nasdaq Global Select Market.
+* **Traded:** The common stock is traded under the symbol INTC.
+* **Subject to:** The registrant is subject to the reporting requirements of the Securities Exchange Act of 1934.
+* **Required to file:** The registrant is required to file reports under Section 13 or 15(d) of the Securities Exchange Act of 1934.
+
+**Note:** The text is incomplete, so it's impossible to determine if the registrant has filed all required reports. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company or organization filing the report.
+* **Rule 405 of Regulation S-T:** A regulation governing electronic data filing.
+* **Interactive Data File:** A specific type of electronic file required by the regulation.
+
+**Relationships:**
+
+* **Required to file reports:** The registrant is obligated to file reports.
+* **Subject to filing requirements:** The registrant is under the jurisdiction of the filing requirements.
+* **Required to submit files:** The registrant is obligated to submit Interactive Data Files.
+* **Large accelerated filer, accelerated filer:** The registrant may be classified as one of these types of filers.
+
+**Other Information:**
+
+* **Past 90 days:** The registrant has been subject to filing requirements for the past 90 days.
+* **Preceding 12 months:** The registrant has submitted electronic files for the past 12 months.
+
+**Note:** The text does not explicitly state whether the registrant is a large accelerated filer, an accelerated filer, or neither. It only asks for the registrant to indicate their status. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Large accelerated filer:** A type of filer defined by SEC rules.
+* **Accelerated filer:** A type of filer defined by SEC rules.
+* **Non-accelerated filer:** A type of filer defined by SEC rules.
+* **Smaller reporting company:** A type of filer defined by SEC rules.
+* **Emerging growth company:** A type of filer defined by SEC rules.
+* **Rule 12b-2:** A rule of the Exchange Act that defines the filer types.
+* **Exchange Act:** The Securities Exchange Act of 1934.
+
+**Relationships:**
+
+* **The registrant is a large accelerated filer.** This is indicated by the checkmark.
+* **The registrant is not an accelerated filer, non-accelerated filer, smaller reporting company, or emerging growth company.** This is indicated by the blank spaces.
+* **The definitions of the filer types are found in Rule 12b-2 of the Exchange Act.** This is stated in the text. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Emerging Growth Company:** A company that meets certain criteria for size and revenue.
+* **Shell Company:** A company with minimal operations and assets, often created for speculative purposes.
+
+**Relationships:**
+
+* **Registrant is an Emerging Growth Company:**  The text indicates the registrant is an emerging growth company.
+* **Registrant is not a Shell Company:** The text indicates the registrant is not a shell company.
+* **Registrant has elected not to use the extended transition period:** The text indicates the registrant has chosen not to use the extended transition period for complying with new or revised financial accounting standards.
+
+**Other Information:**
+
+* **Date:** April 21, 2023.
+* **Section 13(a) of the Exchange Act:** This refers to a section of the Securities Exchange Act of 1934, which deals with reporting requirements for publicly traded companies.
+* **Rule 12b-2 of the Exchange Act:** This rule defines what constitutes a shell company. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:**  The company filing the document.
+* **Common Stock:**  The type of stock issued by the registrant.
+* **Exchange Act:**  The Securities Exchange Act of 1934.
+* **Rule 12b-2:**  A specific rule within the Exchange Act.
+
+**Relationships:**
+
+* **The registrant is subject to Rule 12b-2 of the Exchange Act.** (This is implied by the "Yes/No" question and the answer "No").
+* **The registrant has 4,171 million shares of common stock outstanding.** (This is a direct statement in the text).
+
+**Dates:**
+
+* **April 21, 2023:**  The date on which the number of outstanding shares was reported. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **United States Securities and Exchange Commission (SEC)**
+* **Company filing the report** (not explicitly named, but implied by the form)
+
+**Relationships:**
+
+* **SEC** is the regulatory body that requires the filing of **Form 10-Q**.
+* The **company** is required to file **Form 10-Q** with the **SEC**.
+* **Form 10-Q** is a quarterly report filed by companies with the **SEC**.
+
+**Other Information:**
+
+* The report covers the quarterly period ended December 31, 2022.
+* The report is filed pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Microsoft Corporation:** A company.
+* **SEC (Securities and Exchange Commission):** A government agency.
+* **Transition Report:** A document.
+* **Section 13 or 15(d) of the Securities Exchange Act of 1934:** A legal document.
+* **Washington:** A state.
+
+**Relationships:**
+
+* **Microsoft Corporation** is filing a **Transition Report** pursuant to **Section 13 or 15(d) of the Securities Exchange Act of 1934**.
+* **Microsoft Corporation** is incorporated in **Washington**.
+* **Microsoft Corporation** has a **Commission File Number** of **001-37845**.
+
+**Other Information:**
+
+* The **Transition Report** covers a specific **Transition Period** (dates not provided).
+* The **Commission File Number** is a unique identifier assigned by the **SEC**. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Microsoft** (Company)
+* **ONE MICROSOFT WAY, REDMOND, WASHINGTON 98052-6399** (Address)
+* **(425) 882-8080** (Phone Number)
+* **www.microsoft.com/investor** (Website)
+* **Securities and Exchange Commission (SEC)** (Government Agency)
+* **Section 12(b) of the Act** (Legal Document)
+* **Title of each class** (Security Type)
+* **Trading Symbol** (Stock Symbol)
+* **Name of exchange on which registered** (Stock Exchange)
+
+**Relationships:**
+
+* **Microsoft** is located at **ONE MICROSOFT WAY, REDMOND, WASHINGTON 98052-6399**.
+* **Microsoft** can be contacted at **(425) 882-8080**.
+* **Microsoft** has a website at **www.microsoft.com/investor**.
+* **Microsoft** has registered securities with the **SEC** pursuant to **Section 12(b) of the Act**.
+* **Title of each class** is associated with a **Trading Symbol** and a **Name of exchange on which registered**.
+
+**Note:** The text does not provide specific information about the "Title of each class", "Trading Symbol", or "Name of exchange on which registered". This information would need to be obtained from other sources. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **MSFT:** This is likely a company, possibly Microsoft.
+* **NASDAQ:** This is a stock exchange.
+* **Common stock:** This is a type of security.
+* **3.125% Notes due 2028:** This is a type of debt security.
+* **2.625% Notes due 2033:** This is a type of debt security.
+
+**Relationships:**
+
+* **Registered on:** MSFT is registered on NASDAQ.
+* **Type of security:** MSFT issues common stock, 3.125% Notes due 2028, and 2.625% Notes due 2033.
+* **Par value:** The common stock has a par value of $0.00000625 per share.
+* **Maturity date:** The 3.125% Notes mature in 2028 and the 2.625% Notes mature in 2033.
+* **Interest rate:** The 3.125% Notes have a 3.125% interest rate and the 2.625% Notes have a 2.625% interest rate.
+
+**Note:** The text is incomplete, so there may be other entities and relationships not mentioned. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report.
+* **Securities Exchange Act of 1934:** A US federal law regulating the securities industry.
+* **Regulation S-T:** A set of rules governing electronic submissions of filings with the Securities and Exchange Commission (SEC).
+* **Rule 405:** A specific rule within Regulation S-T.
+* **Interactive Data File:** A specific type of electronic file required by Rule 405.
+
+**Relationships:**
+
+* **The registrant is subject to the Securities Exchange Act of 1934.** This means the registrant is required to file reports under the Act.
+* **The registrant is subject to Regulation S-T.** This means the registrant is required to submit electronic filings according to the rules in Regulation S-T.
+* **Rule 405 of Regulation S-T requires the submission of Interactive Data Files.** This means the registrant is required to submit these files electronically.
+
+**Other Information:**
+
+* The text indicates that the registrant has filed all required reports under the Securities Exchange Act of 1934 and has been subject to these filing requirements for the past 90 days.
+* The text also indicates that the registrant has submitted all required Interactive Data Files electronically. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report.
+* **Rule 405 of Regulation S-T:** A regulation governing the submission of interactive data files.
+* **§232.405:** A specific section within the regulation.
+* **Large accelerated filer:** A type of filer defined by the SEC.
+* **Accelerated filer:** A type of filer defined by the SEC.
+* **Non-accelerated filer:** A type of filer defined by the SEC.
+* **Smaller reporting company:** A type of filer defined by the SEC.
+* **Emerging growth company:** A type of filer defined by the SEC.
+* **Rule 12b-2 of the Exchange Act:** A rule defining the different filer categories.
+
+**Relationships:**
+
+* **The registrant is required to submit interactive data files pursuant to Rule 405 of Regulation S-T.**
+* **The registrant is categorized as one of the following filer types: large accelerated filer, accelerated filer, non-accelerated filer, smaller reporting company, or emerging growth company.**
+* **The definitions of the filer types are found in Rule 12b-2 of the Exchange Act.**
+
+**Note:** The text does not provide specific information about the registrant, so we cannot identify it by name. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Rule 12b-2:** A rule within the Exchange Act.
+* **Exchange Act:**  Likely refers to the Securities Exchange Act of 1934.
+* **Large Accelerated Filer:** A type of filer defined by the Exchange Act.
+* **Accelerated Filer:** A type of filer defined by the Exchange Act.
+* **Non-accelerated Filer:** A type of filer defined by the Exchange Act.
+* **Smaller Reporting Company:** A type of filer defined by the Exchange Act.
+* **Emerging Growth Company:** A type of filer defined by the Exchange Act.
+
+**Relationships:**
+
+* **Rule 12b-2 defines:** "rated filer," "smaller reporting company," and "emerging growth company."
+* **The Exchange Act defines:** "Large Accelerated Filer," "Accelerated Filer," "Non-accelerated Filer," "Smaller Reporting Company," and "Emerging Growth Company."
+* **The text indicates:** The filer is a Large Accelerated Filer.
+
+**Note:** The text is incomplete, so we can't definitively determine the filer's status regarding "Smaller Reporting Company" and "Emerging Growth Company." 
+## Entities and Relationships Extracted:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Emerging Growth Company:** A company that meets certain criteria for being considered an emerging growth company.
+* **Issuer:** The company issuing the shares.
+
+**Relationships:**
+
+* **Emerging Growth Company and Registrant:** The registrant is an emerging growth company.
+* **Registrant and Shell Company:** The registrant is not a shell company.
+* **Issuer and Shares:** The issuer has outstanding shares of different classes.
+
+**Other Information:**
+
+* The registrant has not elected to use the extended transition period for complying with new or revised financial accounting standards.
+* The document requests the number of outstanding shares for each class of the issuer's shares. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Issuer:** The company issuing the stock.
+* **Common Stock:** The type of stock being discussed.
+* **Shares:** Units of ownership in the company.
+
+**Relationships:**
+
+* **Issued by:** The Issuer issued the Common Stock.
+* **Outstanding:** The number of shares outstanding represents the total number of shares held by investors.
+* **Par Value:** The Common Stock has a par value of $0.00000625 per share.
+* **Date:** The number of shares outstanding was reported as of January 19, 2023.
+
+**Data:**
+
+* **Number of Shares Outstanding:** 7,443,803,533 shares
+
+**Summary:**
+
+The text provides information about the number of shares outstanding for the issuer's common stock as of January 19, 2023. It states that there were 7,443,803,533 shares outstanding of the company's common stock, which has a par value of $0.00000625 per share. 
+It's impossible to extract entities and relationships from the text "533 shares" without more context.  
+
+To help me understand, please provide the full sentence or paragraph where this phrase appears. For example:
+
+* **"John bought 533 shares of Apple stock."**  
+    * Entities: John, Apple stock
+    * Relationship: John bought Apple stock.
+
+Let me know the full context, and I'll be happy to help you extract the entities and relationships! 
+## Entities and Relationships:
+
+**Entities:**
+
+* **United States Securities and Exchange Commission (SEC)**
+* **Company filing the report (not specified)**
+
+**Relationships:**
+
+* The company is filing a **Form 10-Q** with the SEC.
+* The report is a **Quarterly Report** pursuant to **Section 13 or 15(d) of the Securities Exchange Act of 1934**.
+* The report covers the **quarterly period ended April 30, 2023**.
+
+**Additional Information:**
+
+* The SEC is located in **Washington, D.C. 20549**.
+* The company is required to file the report due to the **Securities Exchange Act of 1934**. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **E ACT of 1934:**  A law (likely the Securities Exchange Act of 1934)
+* **NVIDIA:** A company (likely a publicly traded company)
+* **Commission file number 0-23985:**  A unique identifier assigned to NVIDIA by a regulatory body (likely the Securities and Exchange Commission)
+
+**Relationships:**
+
+* **NVIDIA is subject to the E ACT of 1934:** This is implied by the document being a report filed under the Act.
+* **NVIDIA has been assigned Commission file number 0-23985:** This is a direct statement in the document.
+
+**Additional Information:**
+
+* The document is a quarterly report filed by NVIDIA.
+* The report is for the period ending April 30, 2023.
+* The report is either a 10-Q (quarterly report) or a transition report, as indicated by the checkboxes.
+
+**Note:** This analysis is based on the limited information provided. A complete understanding of the entities and relationships would require access to the full document and potentially additional context. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **NVIDIA CORPORATION:**  The registrant, a corporation.
+* **Delaware:** The state of incorporation.
+* **94-3177549:** The IRS Employer Identification Number.
+
+**Relationships:**
+
+* **NVIDIA CORPORATION** is incorporated in **Delaware**.
+* **94-3177549** is the IRS Employer Identification Number of **NVIDIA CORPORATION**. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Organization:**  (Not explicitly named, but implied by the address and phone number)
+* **Address:** 2788 San Tomas Expressway, Santa Clara, California 95051
+* **City:** Santa Clara
+* **State:** California
+* **Zip Code:** 95051
+* **Phone Number:** (408) 486-2000
+
+**Relationships:**
+
+* **Location:** The organization is located at the address provided.
+* **Contact:** The phone number is the contact information for the organization. 
+
+**Note:** The text is incomplete, so it's impossible to determine the exact nature of the organization or its purpose. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Principal executive offices:** This refers to the main offices of a company.
+* **Former name:** The previous name of the company.
+* **Former address:** The previous address of the company.
+* **Former fiscal year:** The previous fiscal year of the company.
+* **Securities:** Financial instruments issued by a company.
+* **Section 12(b) of the Act:** This likely refers to a specific section of a legal act, possibly the Securities Act of 1933.
+
+**Relationships:**
+
+* **Principal executive offices** have a **telephone number** (including area code).
+* **Former name**, **former address**, and **former fiscal year** are related to the company's **change since last report**.
+* **Securities** are **registered** pursuant to **Section 12(b) of the Act**.
+* **Title of each class** is related to the **trading** of **securities**.
+
+**Note:** The text is incomplete and lacks context. Therefore, the extracted entities and relationships are based on assumptions and may not be entirely accurate. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report (not explicitly named, but likely NVIDIA Corporation)
+* **Common Stock:** The type of security being reported on
+* **NVDA:** The trading symbol for the company's common stock
+* **The Nasdaq Global Select Market:** The exchange where the stock is registered
+
+**Relationships:**
+
+* **Issuance:** The registrant (NVIDIA Corporation) has issued common stock.
+* **Trading:** The common stock is traded under the symbol NVDA.
+* **Listing:** The common stock is listed on The Nasdaq Global Select Market.
+* **Regulation:** The registrant is subject to reporting requirements under the Securities Exchange Act of 1934.
+
+**Note:** The text is incomplete, so the full scope of relationships cannot be determined. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company or organization filing the report.
+* **Rule 405 of Regulation S-T:** A regulation governing the submission of Interactive Data Files.
+* **Interactive Data File:** A specific type of electronic file required for reporting.
+
+**Relationships:**
+
+* **The registrant is subject to filing requirements:** This implies a regulatory relationship between the registrant and a governing body.
+* **The registrant is required to file reports:** This indicates a responsibility of the registrant to provide information to a specific authority.
+* **The registrant is required to submit Interactive Data Files:** This specifies a specific type of information that the registrant must provide electronically.
+* **The registrant has submitted electronically every Interactive Data File:** This indicates that the registrant has fulfilled a specific requirement.
+
+**Other Information:**
+
+* **12 months:** This refers to a specific time period.
+* **90 days:** This refers to a specific time period.
+* **Large accelerated filer:** This is a classification of companies based on their size and public float.
+
+**Note:** The text does not explicitly mention the governing body or authority responsible for the filing requirements. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Large accelerated filer:** A type of filer defined by SEC rules.
+* **Accelerated filer:** A type of filer defined by SEC rules.
+* **Non-accelerated filer:** A type of filer defined by SEC rules.
+* **Smaller reporting company:** A type of filer defined by SEC rules.
+* **Emerging growth company:** A type of filer defined by SEC rules.
+* **Rule 12b-2:** A rule of the Exchange Act defining filer categories.
+* **Exchange Act:** The Securities Exchange Act of 1934.
+
+**Relationships:**
+
+* **The registrant is a large accelerated filer.** (This is the primary relationship indicated by the checkmark.)
+* **The registrant is not an accelerated filer, non-accelerated filer, smaller reporting company, or emerging growth company.** (This is implied by the lack of checkmarks in the corresponding boxes.)
+* **The filer categories are defined by Rule 12b-2 of the Exchange Act.** 
+* **Rule 12b-2 is part of the Exchange Act.** 
+
+**Note:** The text also mentions "submit such files," but it's unclear what "such files" refers to. This information is not sufficient to extract any further entities or relationships. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **ler reporting company:** This is the company filing the report.
+* **Emerging growth company:** This is a type of company with specific characteristics.
+* **Registrant:** This refers to the company filing the report (ler reporting company).
+* **Shell company:** This is a type of company with minimal operations and assets.
+
+**Relationships:**
+
+* **ler reporting company** is an **emerging growth company**.
+* **ler reporting company** is **not** a **shell company**.
+* **ler reporting company** has **2.47 billion shares** of **common stock** outstanding as of **May 19, 2023**.
+
+**Other Information:**
+
+* The company has **not elected** to use the **extended transition period** for complying with new financial accounting standards.
+* The company's common stock has a **par value of $0.001**. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Outstanding:** This refers to a quantity, likely a financial amount.
+* **May 19, 2023:** This is a specific date.
+* **2.47 billion:** This is a numerical value.
+
+**Relationships:**
+
+* **"as of"**: This indicates that the "outstanding" quantity is measured at the specific date of "May 19, 2023".
+* **"was"**: This indicates that the "outstanding" quantity is equal to "2.47 billion".
+
+**Possible Interpretation:**
+
+The text likely describes a financial value, such as outstanding debt or outstanding shares, that was equal to 2.47 billion as of May 19, 2023. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **United States Securities and Exchange Commission (SEC)**
+* **Company filing the report (not specified)**
+
+**Relationships:**
+
+* The company is filing a **Form 10-Q** with the SEC.
+* The report is a **Quarterly Report** pursuant to **Section 13 or 15(d) of the Securities Exchange Act of 1934**.
+* The report covers the **quarterly period ended April 1, 2023**. 
+
+**Note:** The text does not provide the name of the company filing the report. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Company:**  The company filing the report (not explicitly named, but implied by the context).
+* **SEC:** Securities and Exchange Commission
+* **Section 13/15(d):**  Sections of the Securities Exchange Act of 1934
+
+**Relationships:**
+
+* **Filing:** The company is filing a report with the SEC.
+* **Regulation:** The report is governed by Section 13 or 15(d) of the Securities Exchange Act of 1934.
+* **Time Period:** The report covers the quarterly period ended April 1, 2023.
+* **File Number:** The company's Commission File Number is 001-36743.
+
+**Note:** The text also mentions a "Transition Report," but it's unclear what this refers to specifically. It could be a report related to a change in the company's structure or reporting requirements. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Apple Inc.** (Registrant)
+* **California** (State or jurisdiction)
+* **001-36743** (File Number)
+* **94-2404110** (I.R.S. Employer Identification No.)
+
+**Relationships:**
+
+* **Apple Inc.** is the **registrant** associated with **File Number 001-36743**.
+* **Apple Inc.** is located in **California**.
+* **94-2404110** is the **I.R.S. Employer Identification No.** of **Apple Inc.** 
+## Entities and Relationships:
+
+**Entities:**
+
+* **IRS:** Internal Revenue Service (implied)
+* **Company:**  (Name of the company is missing, but it's implied by the context)
+* **Apple Park Way:**  Address of the company's principal executive offices
+* **Cupertino, California:** City and State of the company's principal executive offices
+* **95014:** Zip Code of the company's principal executive offices
+
+**Relationships:**
+
+* **Company is located at:** Apple Park Way, Cupertino, California 95014
+* **Company has an IRS Employer Identification Number:** (This number is missing from the text)
+* **Company is incorporated or organized in:** (This information is missing from the text) 
+
+**Missing Information:**
+
+* The name of the company is not provided.
+* The IRS Employer Identification Number is not provided.
+* The state of incorporation or organization is not provided. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Company:**  (Not explicitly mentioned, but implied by the context of the document)
+* **Common Stock:**  A type of security issued by the company.
+* **Securities and Exchange Commission (SEC):**  The regulatory body mentioned in the text.
+
+**Relationships:**
+
+* **Company issues Common Stock:**  The company has issued common stock as a security.
+* **Common Stock is registered with the SEC:**  The company has registered its common stock with the SEC under Section 12(b) of the Act.
+* **Company has a telephone number:**  The company's telephone number is provided.
+* **Company has a zip code:**  The company's zip code is provided.
+
+**Additional Information:**
+
+* The text provides the trading symbol(s) and exchange(s) where the common stock is registered, but these are not explicitly mentioned in the provided snippet. 
+* The text does not specify the name of the company or the specific Act referred to. 
+
+**Note:** This analysis is based on the limited information provided. A complete understanding of the entities and relationships would require access to the full document. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **AAPL:**  A company (presumably Apple Inc.)
+* **Common Stock:** A type of security
+* **1.375% Notes due 2024:** A type of debt security
+* **0.000% Notes due 2025:** A type of debt security
+* **0.875% Notes:** A type of debt security
+* **The Nasdaq Stock Market LLC:** A stock exchange
+
+**Relationships:**
+
+* **Registered on:** AAPL's Common Stock is registered on The Nasdaq Stock Market LLC.
+* **Registered on:** AAPL's 1.375% Notes due 2024 are registered on The Nasdaq Stock Market LLC.
+* **Registered on:** AAPL's 0.000% Notes due 2025 are registered on The Nasdaq Stock Market LLC.
+* **Issued by:** The 0.875% Notes are issued by AAPL (implied, as the text is about AAPL's securities).
+
+**Note:** The text doesn't explicitly state where the 0.875% Notes are registered. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **The Nasdaq Stock Market LLC:**  A company.
+* **0.875% Notes due 2025:** A financial instrument (bond).
+* **1.625% Notes due 2026:** A financial instrument (bond).
+* **2.000% Notes due 2027:** A financial instrument (bond).
+* **1.375% Notes due 202[X]:** A financial instrument (bond).  (Note: The year is incomplete)
+
+**Relationships:**
+
+* **Issued by:** The Nasdaq Stock Market LLC issued all the listed bonds.
+* **Type:** All listed items are "Notes" (bonds).
+* **Interest Rate:** Each bond has a specific interest rate (e.g., 0.875%).
+* **Maturity Date:** Each bond has a specific maturity date (e.g., 2025).
+
+**Note:** The incomplete year for the last bond makes it difficult to determine its full relationship. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **The Nasdaq Stock Market LLC:**  A company.
+* **1.375% Notes due 2029:** A financial instrument (bond).
+* **3.050% Notes due 2029:** A financial instrument (bond).
+* **0.500% Notes due 2031:** A financial instrument (bond).
+* **3.600% Notes due 2042:** A financial instrument (bond).
+
+**Relationships:**
+
+* **Issued by:** The Nasdaq Stock Market LLC issued all the listed notes.
+* **Type:** All the listed notes are bonds.
+* **Maturity Date:** Each note has a specific maturity date (2029, 2031, 2042).
+* **Interest Rate:** Each note has a specific interest rate (1.375%, 3.050%, 0.500%, 3.600%).
+
+**Note:** The dashes (-) in the text likely indicate a missing piece of information, such as the price or yield of the notes. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Nasdaq Stock Market LLC:**  The issuer of the notes.
+* **Registrant:**  Refers to Nasdaq Stock Market LLC in this context.
+* **Securities Exchange Act of 1934:**  A US federal law regulating the securities industry.
+
+**Relationships:**
+
+* **Issuance:** Nasdaq Stock Market LLC issued 3.600% Notes due 2042.
+* **Regulation:** Nasdaq Stock Market LLC is subject to the Securities Exchange Act of 1934.
+* **Reporting:** The Registrant (Nasdaq Stock Market LLC) is required to file reports under the Securities Exchange Act of 1934.
+
+**Additional Information:**
+
+* **3.600% Notes due 2042:**  This refers to a specific debt security issued by Nasdaq Stock Market LLC.
+* **Section 13 or 15(d):**  These are sections within the Securities Exchange Act of 1934 that specify reporting requirements for companies. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company or organization filing the document.
+* **Rule 405 of Regulation S-T:** A regulation governing electronic filing requirements.
+* **Interactive Data File:** A specific type of electronic file required by the regulation.
+
+**Relationships:**
+
+* **The Registrant is subject to:** Rule 405 of Regulation S-T.
+* **Rule 405 of Regulation S-T requires:** The Registrant to submit Interactive Data Files electronically.
+* **The Registrant has submitted:** Every Interactive Data File required by Rule 405 of Regulation S-T.
+
+**Note:** The text is incomplete, so it's impossible to extract all entities and relationships. The last sentence is cut off, likely containing further information about the Registrant's compliance with the regulation. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Large accelerated filer:** A type of filer defined by the SEC.
+* **Accelerated filer:** Another type of filer defined by the SEC.
+* **Non-accelerated filer:** A type of filer defined by the SEC.
+* **Smaller reporting company:** A type of filer defined by the SEC.
+* **Emerging growth company:** A type of filer defined by the SEC.
+* **Rule 12b-2:** A rule of the Exchange Act that defines the filer types.
+* **Exchange Act:** The Securities Exchange Act of 1934.
+
+**Relationships:**
+
+* **The Registrant is a Large accelerated filer.** (This is the primary relationship indicated by the checkmark.)
+* **The filer types are defined by Rule 12b-2 of the Exchange Act.**
+* **The filer types are defined by the SEC.**
+
+**Note:** The text does not explicitly state that the Registrant is *not* an accelerated filer, but the checkmark for "Large accelerated filer" implies this. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Accelerated filer**
+* **Non-accelerated filer**
+* **Smaller reporting company**
+* **Emerging growth company**
+
+**Relationships:**
+
+* **Mutual exclusion:** The text implies that a company can only be classified as one of these four entities. This is indicated by the checkboxes, where only one can be selected. 
+
+**Note:** The text itself doesn't provide any specific information about the characteristics or requirements for each entity. It simply presents the options for classification. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **United States Securities and Exchange Commission (SEC)**
+* **Company filing the report (unknown)**
+
+**Relationships:**
+
+* The company is filing a **Form 10-Q** with the SEC.
+* The Form 10-Q is a **Quarterly Report** pursuant to **Section 13 or 15(d)** of the **Securities Act of 1934**.
+
+**Additional Information:**
+
+* The SEC is located in **Washington, D.C. 20549**.
+* The company is required to file the Form 10-Q because it is subject to **Section 13 or 15(d)** of the **Securities Act of 1934**.
+
+**Note:** The text does not provide the name of the company filing the report. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Quarterly Report:** A document filed with the Securities and Exchange Commission (SEC).
+* **Section 13 or 15(d) of the Securities Exchange Act of 1934:**  A legal provision requiring companies to file reports with the SEC.
+* **Securities and Exchange Commission (SEC):** A government agency responsible for regulating the securities market.
+* **Transition Report:** A document filed with the SEC during a transition period.
+* **June 30, 2023:** A specific date.
+
+**Relationships:**
+
+* **Quarterly Report** is filed **pursuant to** **Section 13 or 15(d) of the Securities Exchange Act of 1934**.
+* **Quarterly Report** is filed **with** the **Securities and Exchange Commission (SEC)**.
+* **Transition Report** is filed **pursuant to** **Section 13 or 15(d) of the Securities Exchange Act of 1934**.
+* **Transition Report** is filed **with** the **Securities and Exchange Commission (SEC)**.
+* **Quarterly Report** is filed **for** the **quarterly period ended June 30, 2023**.
+* **Transition Report** is filed **for** the **transition period from** (start date) **to** (end date). 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Amazon.com, Inc.** (Registrant)
+* **Commission File No. 000-22513** (File Number)
+
+**Relationships:**
+
+* **Amazon.com, Inc.** is the **registrant** associated with **Commission File No. 000-22513**.
+
+**Missing Information:**
+
+The text lacks the specific dates for the transition period. 
+
+**Possible Interpretations:**
+
+The text likely refers to a regulatory filing or document related to Amazon.com, Inc. The transition period could be related to a change in reporting requirements, a merger, or other significant event. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Delaware:** State of incorporation or organization
+* **91-1646860:** I.R.S. Employer Id
+
+**Relationships:**
+
+* **Delaware** is the state of incorporation or organization for the entity with the **I.R.S. Employer Id 91-1646860**.
+
+**Note:** The text lacks information about the specific entity being referred to. It only provides the state of incorporation and the I.R.S. Employer Id. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:**  This is the organization that is registering securities.  We don't have a specific name for this entity.
+* **Seattle, Washington:**  This is the location of the registrant's principal executive offices.
+
+**Relationships:**
+
+* **Location:** The registrant's principal executive offices are located in Seattle, Washington.
+* **Contact Information:** The registrant can be reached at the address and phone number provided. 
+
+**Additional Information:**
+
+* **410 Terry Avenue North, Seattle, Washington 98109-5210:** This is the address of the registrant's principal executive offices.
+* **(206) 266-1000:** This is the phone number of the registrant's principal executive offices.
+* **Securities registered pursuant to S:** This indicates that the registrant is registering securities under a specific regulation or act, likely the Securities Act of 1933. 
+
+**Note:**  The text provided is incomplete and lacks the full context of the document.  Therefore, we can only extract the information that is present. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Securities:**  Common Stock
+* **Company:**  (implied) Amazon.com, Inc. (based on the trading symbol AMZN)
+* **Exchange:** Nasdaq Global Select Market
+
+**Relationships:**
+
+* **Registration:** The Common Stock is registered pursuant to Section 12(b) of the Act.
+* **Trading Symbol:** The trading symbol for the Common Stock is AMZN.
+* **Listing:** The Common Stock is listed on the Nasdaq Global Select Market.
+
+**Additional Information:**
+
+* **Par Value:** The Common Stock has a par value of $0.01 per share. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company or organization filing the report.
+* **Securities Exchange Act of 1934:** A US federal law regulating the securities industry.
+* **Section 13 and 15(d):** Specific sections within the Securities Exchange Act of 1934 that require certain reports.
+
+**Relationships:**
+
+* **The registrant is required to file reports:** This is a legal obligation imposed by the Securities Exchange Act of 1934.
+* **The registrant is subject to filing requirements:** This indicates that the registrant is obligated to file reports under the Securities Exchange Act of 1934.
+* **The registrant has filed all required reports:** This is a statement about the registrant's compliance with the filing requirements.
+* **The registrant has submitted electronically every Interactive Data File:** This is a statement about the registrant's compliance with specific electronic filing requirements.
+
+**Note:** The text is incomplete, so it's impossible to extract all relevant entities and relationships. The missing portion likely contains information about the specific Interactive Data Files required. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report.
+* **Rule 405 of Regulation S-T:** A regulation governing electronic filing of financial data.
+* **Interactive Data File:** A specific type of electronic file required by the regulation.
+
+**Relationships:**
+
+* **Submission Requirement:** The registrant is required to submit Interactive Data Files electronically under Rule 405 of Regulation S-T.
+* **Timeframe:** The submission requirement applies for the preceding 12 months or a shorter period if the registrant was required to submit files for a shorter duration.
+* **Compliance:** The registrant has submitted all required Interactive Data Files electronically during the specified timeframe.
+* **Company Classification:** The registrant is classified as one of the following:
+    * Large accelerated filer
+    * Accelerated filer
+    * Non-accelerated filer
+    * Smaller reporting company
+    * Emerging growth company
+
+**Note:** The text does not specify the exact classification of the registrant. It only indicates that the registrant belongs to one of these categories. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Large accelerated filer**
+* **Accelerated filer**
+* **Non-accelerated filer**
+* **Smaller reporting company**
+* **Emerging growth company**
+* **Rule 12b-2**
+* **Exchange Act**
+
+**Relationships:**
+
+* **Classification:** The text classifies entities based on their filing status under Rule 12b-2 of the Exchange Act.
+* **Exclusion:** The text indicates that the entity is a "large accelerated filer" and excludes the other categories.
+* **Regulation:** Rule 12b-2 of the Exchange Act governs the filing requirements for companies.
+
+**Possible Inferences:**
+
+* The entity is likely a publicly traded company subject to the regulations of the Exchange Act.
+* The entity meets the criteria for being classified as a "large accelerated filer" under Rule 12b-2.
+* The entity does not meet the criteria for being classified as an "accelerated filer," "non-accelerated filer," "smaller reporting company," or "emerging growth company."
+
+**Note:** The text does not provide information about the specific entity being classified. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Emerging Growth Company:** A company that meets certain criteria for being considered a newly public company.
+* **Exchange Act:** The Securities Exchange Act of 1934.
+* **Rule 12b-2:** A rule under the Exchange Act defining a "shell company."
+
+**Relationships:**
+
+* **Registrant is an Emerging Growth Company:** This is a possible relationship, indicated by the checkbox.
+* **Registrant has elected not to use the extended transition period:** This is a possible relationship, indicated by the checkbox.
+* **Registrant is a shell company:** This is a possible relationship, indicated by the checkbox.
+
+**Other Information:**
+
+* The text describes a form or document that requires the registrant to provide information about its status as an emerging growth company and a shell company.
+* The text mentions the possibility of the registrant electing not to use the extended transition period for complying with new financial accounting standards.
+
+**Note:** The checkboxes indicate that the relationships are not confirmed, but rather options that the registrant can choose. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the registration.
+* **Shell Company:** A company with no real business operations, often used for fraudulent purposes.
+* **Common Stock:** Shares of ownership in the company.
+
+**Relationships:**
+
+* **Registrant is not a Shell Company:** This is explicitly stated in the text.
+* **Common Stock Outstanding:** The registrant has 10,317,750,796 shares of common stock outstanding as of July 21, 2023.
+* **Par Value:** The nominal value of each share of common stock is $0.01.
+
+**Note:** The text does not provide information about the specific company or its industry. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **United States Securities and Exchange Commission (SEC)**
+* **Company filing the report** (not explicitly named, but implied by the form)
+
+**Relationships:**
+
+* **SEC** is the regulatory body that requires the filing of **Form 10-Q**.
+* The **company filing the report** is required to submit **Form 10-Q** to the **SEC**.
+
+**Other Information:**
+
+* **Form 10-Q** is a quarterly report.
+* The report covers the period ending **July 1, 2023**. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** Intel (Exact name of registrant as specified in its charter)
+* **Document:** Transition Report
+* **Act:** Securities Exchange Act of 1934
+* **Commission:** Securities and Exchange Commission (implied)
+* **File Number:** 000-06217Intel
+
+**Relationships:**
+
+* **The Registrant (Intel) is filing a Transition Report.**
+* **The Transition Report is pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934.**
+* **The Transition Report covers a specific transition period (dates not specified).**
+* **The Registrant (Intel) has a Commission File Number of 000-06217Intel.**
+
+**Note:** The text mentions "INTEL C" but it's unclear what this refers to. It could be a typo or an abbreviation that needs further context. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **INTEL CORPORATION:** A company
+* **Delaware:** A state
+* **2200 Mission College Boulevard:** An address
+* **Santa Clara:** A city
+
+**Relationships:**
+
+* **INTEL CORPORATION** is incorporated in **Delaware**.
+* **INTEL CORPORATION** is located at **2200 Mission College Boulevard, Santa Clara**.
+* **INTEL CORPORATION** has an IRS Employer Identification Number of **94-1672743**. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Company:**  (Not explicitly mentioned, but implied as the subject of the document)
+* **Address:** 2200 Mission College Boulevard, Santa Clara, California 95054-1549
+* **City:** Santa Clara
+* **State:** California
+* **Zip Code:** 95054-1549
+* **Phone Number:** (408) 765-8080
+
+**Relationships:**
+
+* **Location:** The company's principal executive offices are located at the given address.
+* **Contact:** The phone number is the company's contact number. 
+
+**Note:** The text provides information about the company's location and contact details, but it doesn't explicitly mention the company's name. 
+## Entities and Relationships Extracted:
+
+**Entities:**
+
+* **Registrant:** The company or organization filing the report.
+* **Securities:** Financial instruments issued by the Registrant.
+* **Section 12(b) of the Act:**  Likely refers to the Securities Act of 1933, a US federal law regulating the issuance and sale of securities.
+* **Exchange:** A marketplace where securities are traded.
+
+**Relationships:**
+
+* **Registrant's telephone number:**  A property of the Registrant.
+* **Former name, former address, former fiscal year:**  Past attributes of the Registrant.
+* **Securities registered pursuant to Section 12(b) of the Act:**  Securities are registered under a specific section of the Securities Act.
+* **Title of each class, Trading symbol(s), Name of each exchange:**  Attributes of the registered securities.
+
+**Missing Information:**
+
+The text is incomplete, missing information about the specific securities registered by the Registrant. 
+
+**Assumptions:**
+
+* The text is part of a legal document, likely a report filed with a regulatory body.
+* "Act" refers to the Securities Act of 1933.
+
+**Further Analysis:**
+
+To fully understand the entities and relationships, more context is needed. For example, knowing the specific name of the Registrant and the type of securities registered would provide a clearer picture. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report.
+* **INTC:** The trading symbol for the company's common stock.
+* **Nasdaq Global Select Market:** The exchange where the company's stock is registered.
+* **Securities Exchange Act of 1934:** A US federal law regulating the securities industry.
+
+**Relationships:**
+
+* **Trading symbol (INTC) is associated with the company's common stock.**
+* **The company's common stock is registered on the Nasdaq Global Select Market.**
+* **The registrant is subject to the Securities Exchange Act of 1934.**
+* **The registrant is required to file reports under Section 13 or 15(d) of the Securities Exchange Act of 1934.**
+
+**Note:** The text also mentions a requirement for the registrant to file reports, but it doesn't specify the content or purpose of these reports. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company or organization filing the report.
+* **Rule 405 of Regulation S-T:** A regulation governing the submission of Interactive Data Files.
+* **Interactive Data File:** A specific type of electronic file required for reporting.
+
+**Relationships:**
+
+* **Required to file reports:** The registrant is obligated to file reports.
+* **Subject to filing requirements:** The registrant is under the jurisdiction of the filing requirements.
+* **Required to submit Interactive Data Files:** The registrant is obligated to submit Interactive Data Files.
+* **Submitted electronically:** The registrant has submitted the files electronically.
+* **Large accelerated filer:** The registrant may be classified as a large accelerated filer.
+
+**Other Information:**
+
+* **Time periods:** The text mentions specific time periods for filing requirements (90 days, 12 months, or shorter periods).
+* **Check marks:** The text uses check marks to indicate "Yes" or "No" answers to specific questions.
+
+**Note:** The text is incomplete, so the relationship between the registrant and "large accelerated filer" is unclear. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the registration.
+* **Large accelerated filer:** A company meeting specific criteria for accelerated filing requirements.
+* **Accelerated filer:** A company meeting specific criteria for accelerated filing requirements.
+* **Non-accelerated filer:** A company not meeting the criteria for accelerated filing requirements.
+* **Smaller reporting company:** A company meeting specific criteria for smaller reporting company status.
+* **Emerging growth company:** A company meeting specific criteria for emerging growth company status.
+
+**Relationships:**
+
+* **Classification:** The registrant is classified as one of the above entities based on its financial and operational characteristics.
+* **Definition:** The definitions of each entity are provided in Rule 12b-2 of the Exchange Act.
+* **Check mark:** The registrant must indicate its classification by checking the appropriate box.
+
+**Note:** The text does not provide any specific information about the registrant, so we cannot determine its actual classification. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Smaller Reporting Company**
+* **Emerging Growth Company**
+* **Registrant**
+* **Shell Company**
+
+**Relationships:**
+
+* **Emerging Growth Company** is a type of **Registrant**.
+* **Smaller Reporting Company** is a type of **Registrant**.
+* **Registrant** can elect to not use the extended transition period for complying with new or revised financial accounting standards.
+* **Registrant** can be a **Shell Company**.
+
+**Other Information:**
+
+* The text indicates that the **Registrant** is not a **Smaller Reporting Company** but might be an **Emerging Growth Company**.
+* The **Registrant** has not elected to not use the extended transition period for complying with new or revised financial accounting standards.
+* The text does not provide information about whether the **Registrant** is a **Shell Company**.
+
+**Note:** The text uses check marks and symbols to indicate the status of the **Registrant**. This information is not included in the extracted entities and relationships. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Exchange Act:** The Securities Exchange Act of 1934.
+* **Rule 12b-2:** A rule within the Exchange Act defining "shell company".
+* **Common stock:** Shares of ownership in the registrant company.
+
+**Relationships:**
+
+* **Section 13(a) of the Exchange Act:**  The registrant is subject to this section of the Act.
+* **Rule 12b-2 of the Exchange Act:** The registrant is not a shell company as defined by this rule.
+* **Registrant and Common Stock:** The registrant has 4,188 million shares of common stock outstanding.
+
+**Dates:**
+
+* **July 21, 2023:** The date the registrant had 4,188 million shares of common stock outstanding. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **United States Securities and Exchange Commission (SEC)**
+* **Company filing the report** (not explicitly named, but implied by the form)
+
+**Relationships:**
+
+* **SEC** is the regulatory body that requires the filing of **Form 10-Q**.
+* The **company** is required to file **Form 10-Q** with the **SEC**.
+* **Form 10-Q** is a quarterly report filed by companies with the **SEC**.
+
+**Other Information:**
+
+* The report covers the quarterly period ended March 31, 2023.
+* The report is filed pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Microsoft Corporation:** A company.
+* **SEC (Securities and Exchange Commission):** A government agency.
+* **Transition Report:** A document.
+* **Section 13 or 15(d) of the Securities Exchange Act of 1934:** A legal document.
+* **Washington:** A state.
+
+**Relationships:**
+
+* **Microsoft Corporation** is filing a **Transition Report** pursuant to **Section 13 or 15(d) of the Securities Exchange Act of 1934**.
+* **Microsoft Corporation** is incorporated in **Washington**.
+* **Microsoft Corporation** has a **Commission File Number** of **001-37845**.
+
+**Other Information:**
+
+* The **Transition Report** covers a specific **Transition Period** (dates not provided).
+* The **Commission File Number** is a unique identifier assigned by the **SEC**. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Microsoft** (Company)
+* **ONE MICROSOFT WAY, REDMOND, WASHINGTON 98052-6399** (Address)
+* **(425) 882-8080** (Phone Number)
+* **www.microsoft.com/investor** (Website)
+* **Securities and Exchange Commission (SEC)** (Government Agency)
+* **Section 12(b) of the Act** (Legal Document)
+* **Co** (Company - likely an abbreviation for "Company")
+
+**Relationships:**
+
+* **Microsoft** is located at **ONE MICROSOFT WAY, REDMOND, WASHINGTON 98052-6399**.
+* **Microsoft** can be contacted at **(425) 882-8080**.
+* **Microsoft** has a website at **www.microsoft.com/investor**.
+* **Microsoft** is registered with the **SEC** under **Section 12(b) of the Act**.
+* **Co** is likely a subsidiary or division of **Microsoft**.
+
+**Note:** The text is incomplete, so it's difficult to extract all the entities and relationships. The "Co" entity is particularly unclear without more context. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **MSFT:** This is likely a company, possibly Microsoft.
+* **NASDAQ:** This is a stock exchange.
+* **Common stock:** This is a type of security.
+* **3.125% Notes due 2028:** This is a type of debt security.
+* **2.625% Notes due 2033:** This is a type of debt security.
+
+**Relationships:**
+
+* **Registered on:** MSFT is registered on NASDAQ.
+* **Type of security:** MSFT issues common stock, 3.125% Notes due 2028, and 2.625% Notes due 2033.
+* **Par value:** The common stock has a par value of $0.00000625 per share.
+* **Maturity date:** The 3.125% Notes mature in 2028 and the 2.625% Notes mature in 2033.
+
+**Note:** The text mentions a "registrant" but doesn't specify who it is. It's likely referring to MSFT, but this needs to be confirmed. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report.
+* **Securities Exchange Act of 1934:** A US federal law regulating the securities industry.
+* **Rule 405 of Regulation S-T:** A regulation under the Securities Exchange Act of 1934 that requires electronic submission of Interactive Data Files.
+
+**Relationships:**
+
+* **The Registrant is subject to the Securities Exchange Act of 1934.** This is implied by the requirement to file reports under Section 13 or 15(d) of the Act.
+* **The Registrant is required to file reports under Section 13 or 15(d) of the Securities Exchange Act of 1934.** This is stated explicitly in the text.
+* **The Registrant is required to submit Interactive Data Files electronically under Rule 405 of Regulation S-T.** This is stated explicitly in the text.
+
+**Additional Information:**
+
+* The text indicates that the Registrant has filed all required reports for the past 12 months and has been subject to filing requirements for the past 90 days.
+* The text also indicates that the Registrant has submitted all required Interactive Data Files electronically.
+
+**Note:** This analysis is based on the provided text snippet. A more complete understanding of the entities and relationships would require access to the full document and context. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report.
+* **Rule 405 of Regulation S-T:** A regulation governing electronic data submissions.
+* **§232.405:** A specific section within the regulation.
+* **Large accelerated filer:** A type of filer defined by the SEC.
+* **Accelerated filer:** A type of filer defined by the SEC.
+* **Non-accelerated filer:** A type of filer defined by the SEC.
+* **Smaller reporting company:** A type of filer defined by the SEC.
+* **Emerging growth company:** A type of filer defined by the SEC.
+* **Rule 12b-2 of the Exchange Act:** A rule defining the filer categories.
+
+**Relationships:**
+
+* **The registrant is required to submit a ractive Data File pursuant to Rule 405 of Regulation S-T.**
+* **The registrant is required to submit the file for the preceding 12 months (or a shorter period if applicable).**
+* **The registrant must indicate its filer category (large accelerated filer, accelerated filer, etc.) based on the definitions in Rule 12b-2 of the Exchange Act.**
+
+**Note:** The text does not provide specific information about the registrant's identity or the nature of the ractive Data File. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Ted Filer:**  A person (likely an individual)
+* **Rule 12b-2:** A rule within the Exchange Act
+* **Exchange Act:** A piece of legislation (likely the Securities Exchange Act of 1934)
+* **Large Accelerated Filer:** A type of company classification
+* **Accelerated Filer:** A type of company classification
+* **Non-accelerated Filer:** A type of company classification
+* **Smaller Reporting Company:** A type of company classification
+* **Emerging Growth Company:** A type of company classification
+
+**Relationships:**
+
+* **Ted Filer** is likely associated with **Rule 12b-2** of the **Exchange Act**. This could be due to his role in creating, interpreting, or applying the rule.
+* **Rule 12b-2** is a part of the **Exchange Act**.
+* **Large Accelerated Filer**, **Accelerated Filer**, **Non-accelerated Filer**, **Smaller Reporting Company**, and **Emerging Growth Company** are all classifications of companies.
+* The checkmarks indicate that the company in question is a **Large Accelerated Filer** and an **Emerging Growth Company**. 
+
+**Possible Inferences:**
+
+* The text likely comes from a company's filing with the Securities and Exchange Commission (SEC).
+* The company is classified as a **Large Accelerated Filer** and an **Emerging Growth Company**.
+* The company may be subject to specific reporting requirements under **Rule 12b-2** of the **Exchange Act** due to its classification.
+
+**Note:** Without more context, it's difficult to determine the exact nature of Ted Filer's involvement with Rule 12b-2. 
+## Entities and Relationships Extracted:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Emerging Growth Company:** A company that meets certain criteria for being considered a smaller, newer company.
+* **Issuer:** The company issuing the shares.
+
+**Relationships:**
+
+* **Emerging Growth Company and Registrant:** The registrant is an emerging growth company.
+* **Registrant and Shell Company:** The registrant is not a shell company.
+* **Issuer and Shares:** The issuer has outstanding shares of common stock.
+
+**Other Information:**
+
+* The registrant has not elected to use the extended transition period for complying with new or revised financial accounting standards.
+* The document requests the number of outstanding shares for each class of common stock issued by the company. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Issuer:** The company issuing the stock.
+* **Common Stock:** The type of stock being discussed.
+* **Shares:** Units of ownership in the company.
+
+**Relationships:**
+
+* **Issued by:** The Issuer issued the Common Stock.
+* **Outstanding:** The number of shares outstanding represents the total number of shares held by investors.
+* **Par Value:** The Common Stock has a par value of $0.00000625 per share.
+* **Date:** The number of shares outstanding was measured as of April 20, 2023.
+
+**Data:**
+
+* **Number of Shares Outstanding:** 7,435,487,575 shares
+
+**Note:** The text does not specify the name of the issuer, so it remains an unspecified entity. 
+This text is too short to extract meaningful entities and relationships.  It only provides a quantity of "shares," which is a financial term, but doesn't give any context about who owns them, what company they are for, or any other relevant information. 
+
+To extract entities and relationships, I need more context. For example, you could provide:
+
+* **The full sentence or paragraph:**  "John bought 575 shares of Apple stock."
+* **The context of the text:**  "This is the number of shares held by the company's CEO."
+
+With more information, I can identify entities like:
+
+* **People:** John, CEO
+* **Organizations:** Apple
+* **Things:** Shares, stock
+* **Relationships:** Owns, holds
+
+And then I can describe the relationships between them. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **United States Securities and Exchange Commission (SEC)**
+* **[Company Name]** (implied, not explicitly stated)
+
+**Relationships:**
+
+* **SEC** is the regulatory body responsible for overseeing the filing of **Form 10-Q**.
+* **[Company Name]** is required to file **Form 10-Q** with the **SEC**.
+* **Form 10-Q** is a quarterly report filed by publicly traded companies with the **SEC**.
+
+**Other Information:**
+
+* **Form 10-Q** is filed pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934.
+* The report covers the quarterly period ended July 30, 2023. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **E ACT of 1934:**  A law (likely the Securities Exchange Act of 1934)
+* **NVIDIA:** A company (likely a publicly traded company)
+* **Commission file number 0-23985:**  A unique identifier assigned to NVIDIA by a regulatory body (likely the Securities and Exchange Commission)
+
+**Relationships:**
+
+* **NVIDIA is subject to the E ACT of 1934:** This is implied by the document being a report filed under the Act.
+* **NVIDIA has been assigned Commission file number 0-23985:** This is a direct statement in the document.
+
+**Additional Information:**
+
+* The document is a quarterly report filed by NVIDIA.
+* The report is for the period ending July 30, 2023.
+* The report is either a 10-Q (quarterly report) or a transition report, as indicated by the checkboxes. 
+
+**Note:** This analysis is based on the limited information provided. A full understanding of the document would require access to the complete report and knowledge of SEC regulations. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **NVIDIA CORPORATION** (Registrant)
+* **Delaware** (State of Incorporation)
+* **I.R.S.** (Internal Revenue Service)
+
+**Relationships:**
+
+* **NVIDIA CORPORATION** is incorporated in **Delaware**.
+* **NVIDIA CORPORATION** has an **I.R.S. Employer Identification Number** of **94-3177549**. 
+
+**Note:** The number "278" seems to be unrelated to the other information and might be a page number or some other identifier. 
+## Entities:
+
+* **Company:**  (Not explicitly mentioned, but implied by the context of the document)
+* **Address:** 2788 San Tomas Expressway, Santa Clara, California 95051
+* **City:** Santa Clara
+* **State:** California
+* **Zip Code:** 95051
+* **Phone Number:** (408) 486-2000
+
+## Relationships:
+
+* **Location:** The company's principal executive offices are located at the given address.
+* **Contact:** The phone number is associated with the company. 
+## Entities and Relationships Extracted:
+
+**Entities:**
+
+* **Registrant:** The entity filing the report.
+* **Securities:** Financial instruments registered under Section 12(b) of the Act.
+
+**Relationships:**
+
+* **Registrant's telephone number:**  A property of the Registrant.
+* **Former name, former address, former fiscal year:**  Attributes of the Registrant that have changed since the last report.
+* **Title of each class:**  A property of the Securities.
+* **Trading Symbol(s):**  A property of the Securities.
+
+**Note:** The text mentions "N/A" for the Registrant's telephone number, indicating that this information is not available. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report.
+* **Common Stock:** The type of stock issued by the registrant.
+* **NVDA:** The trading symbol for the registrant's stock.
+* **The Nasdaq Global Select Market:** The exchange where the registrant's stock is registered.
+* **Securities Exchange Act of 1934:** A US federal law regulating the securities industry.
+
+**Relationships:**
+
+* **Issuance:** The registrant has issued Common Stock.
+* **Trading Symbol:** The trading symbol NVDA represents the registrant's Common Stock.
+* **Listing:** The registrant's Common Stock is listed on The Nasdaq Global Select Market.
+* **Regulation:** The registrant is subject to the Securities Exchange Act of 1934.
+* **Reporting:** The registrant is required to file reports under the Securities Exchange Act of 1934.
+
+**Note:** The text is incomplete, so the relationships regarding the filing of reports are not fully clear. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company or organization filing the report.
+* **Rule 405 of Regulation S-T:** A regulation governing electronic data filing.
+* **Interactive Data File:** A specific type of electronic file required by the regulation.
+
+**Relationships:**
+
+* **The registrant is subject to filing requirements:** This implies a regulatory obligation on the registrant.
+* **The registrant is required to file reports:** This further clarifies the nature of the filing obligation.
+* **The registrant is required to submit Interactive Data Files:** This specifies a specific type of file the registrant must submit.
+* **The registrant has submitted electronically every Interactive Data File:** This indicates the registrant's compliance with the filing requirement.
+* **The registrant is a large accelerated filer, an accelerated filer, or a non-accelerated filer:** This categorizes the registrant based on its size and filing requirements.
+
+**Additional Information:**
+
+* The text mentions a 90-day period and a 12-month period, which likely refer to reporting periods.
+* The check marks indicate the registrant's affirmative response to the questions.
+
+**Note:** The text is incomplete, so it's impossible to determine the specific nature of the registrant or the context of the filing. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Large accelerated filer:** A type of filer defined by the SEC.
+* **Accelerated filer:** A type of filer defined by the SEC.
+* **Non-accelerated filer:** A type of filer defined by the SEC.
+* **Smaller reporting company:** A type of filer defined by the SEC.
+* **Emerging growth company:** A type of filer defined by the SEC.
+* **Rule 12b-2:** A rule of the Exchange Act defining filer categories.
+* **Exchange Act:** The Securities Exchange Act of 1934.
+
+**Relationships:**
+
+* **Classification:** The registrant is classified as a **large accelerated filer**.
+* **Definition:** The definitions of the filer categories are found in **Rule 12b-2 of the Exchange Act**.
+* **Exclusion:** The registrant is **not** an accelerated filer, non-accelerated filer, smaller reporting company, or emerging growth company. 
+
+**Note:** The text also mentions a potential relationship between the registrant being an emerging growth company and another check mark, but the sentence is incomplete. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Emerging Growth Company:** A company that meets certain criteria for being considered an emerging growth company.
+* **Shell Company:** A company with minimal operations and assets, often created for the purpose of raising capital.
+
+**Relationships:**
+
+* **Registrant is an Emerging Growth Company:**  The text indicates that the registrant is an emerging growth company, but it does not specify whether they have elected to use the extended transition period for financial accounting standards.
+* **Registrant is not a Shell Company:** The text explicitly states that the registrant is not a shell company.
+* **Shares Outstanding:** The registrant has 2.47 billion shares of common stock outstanding as of August 18, 2023.
+
+**Other Information:**
+
+* **Par Value:** The par value of the common stock is $0.001.
+* **Date:** The information about the number of shares outstanding is as of August 18, 2023.
+
+**Note:** The checkmarks in the text are not included in the extracted information as they are not relevant to the entities and relationships. 
+This text doesn't contain any entities or relationships. It's simply a numerical value. 
+
+To extract entities and relationships, I need more context. For example, if the text was:
+
+"**The population of India is 2.47 billion.**"
+
+Then I could extract:
+
+* **Entities:** India, population
+* **Relationship:** The population of India is 2.47 billion. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **United States Securities and Exchange Commission (SEC)**
+* **Company filing the report (not specified)**
+
+**Relationships:**
+
+* The company is filing a **Form 10-Q** with the SEC.
+* The report is a **Quarterly Report** pursuant to **Section 13 or 15(d) of the Securities Exchange Act of 1934**.
+* The report covers the **quarterly period ended July 1, 2023**. 
+
+**Note:** The text does not provide the name of the company filing the report. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Company:**  The company filing the report (not explicitly named, but implied by the context).
+* **SEC:** Securities and Exchange Commission
+* **Section 13/15(d):**  Sections of the Securities Exchange Act of 1934
+
+**Relationships:**
+
+* **Filing:** The company is filing a report with the SEC.
+* **Regulation:** The report is governed by Section 13 or 15(d) of the Securities Exchange Act of 1934.
+* **Time Period:** The report covers the quarterly period ended July 1, 2023.
+* **File Number:** The company's Commission File Number is 001-36743.
+
+**Note:** The text also mentions a "Transition Report," but it's unclear what this refers to specifically. It could be a report related to a change in the company's structure or reporting requirements. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Apple Inc.** (Registrant)
+* **California** (State or jurisdiction)
+* **001-36743** (File Number)
+* **94-2404110** (I.R.S. Employer Identification No.)
+
+**Relationships:**
+
+* **Apple Inc.** is the **registrant** associated with **File Number 001-36743**.
+* **Apple Inc.** is located in **California**.
+* **94-2404110** is the **I.R.S. Employer Identification No.** of **Apple Inc.** 
+## Entities and Relationships:
+
+**Entities:**
+
+* **IRS:** Internal Revenue Service (implied)
+* **Company:**  (Name of the company is missing, but it's implied by the context)
+* **Apple Park Way:** Address of the company's principal executive offices
+* **Cupertino, California:** City and State of the company's principal executive offices
+* **95014:** Zip Code of the company's principal executive offices
+
+**Relationships:**
+
+* **Company is located at:** Apple Park Way, Cupertino, California 95014
+* **Company has an:** IRS Employer Identification Number (EIN)
+* **Company is incorporated or organized in:** (State of incorporation/organization is missing) 
+
+**Missing Information:**
+
+* The name of the company is not provided.
+* The state of incorporation or organization is not provided. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Zip Code:**  (This is a placeholder, the actual zip code is missing from the provided text)
+* **Registrant:**  (This is a placeholder, the actual name of the registrant is missing from the provided text)
+* **Common Stock:**  (This is the type of security being registered)
+* **Securities and Exchange Commission (SEC):**  (Implied by the reference to "Section 12(b) of the Act")
+* **Exchange:**  (The specific exchange is not mentioned, but it is implied that the stock is registered on at least one exchange)
+
+**Relationships:**
+
+* **Registrant:**  Has a telephone number of (408) 996-1010.
+* **Registrant:**  Has registered **Common Stock** under **Section 12(b) of the Act**.
+* **Common Stock:**  Is registered on at least one **Exchange**. 
+
+**Missing Information:**
+
+* The actual zip code is missing.
+* The actual name of the registrant is missing.
+* The specific exchange(s) where the stock is registered are not mentioned. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **AAPL:**  A company (presumably Apple Inc.)
+* **Common Stock:** A type of security
+* **1.375% Notes due 2024:** A type of debt security
+* **0.000% Notes due 2025:** A type of debt security
+* **0.875% Notes:** A type of debt security
+* **The Nasdaq Stock Market LLC:** A stock exchange
+
+**Relationships:**
+
+* **Registered on:** AAPL's Common Stock is registered on The Nasdaq Stock Market LLC.
+* **Registered on:** The 1.375% Notes due 2024 are registered on The Nasdaq Stock Market LLC.
+* **Registered on:** The 0.000% Notes due 2025 are registered on The Nasdaq Stock Market LLC.
+* **Registered on:** The 0.875% Notes are registered on The Nasdaq Stock Market LLC. 
+
+**Note:** The text doesn't specify the exchange for the 0.875% Notes, only that they are registered on an exchange. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Nasdaq Stock Market LLC:**  A company.
+* **0.875% Notes due 2025:** A financial instrument (bond).
+* **1.625% Notes due 2026:** A financial instrument (bond).
+* **2.000% Notes due 2027:** A financial instrument (bond).
+* **1.375% Notes due 2029:** A financial instrument (bond).
+
+**Relationships:**
+
+* **Issued by:** Nasdaq Stock Market LLC issued all the listed notes.
+* **Type:** All listed notes are bonds.
+* **Maturity Date:** Each note has a specific maturity date (2025, 2026, 2027, 2029).
+* **Interest Rate:** Each note has a specific interest rate (0.875%, 1.625%, 2.000%, 1.375%).
+
+**Note:** The text doesn't provide information about the specific type of bond (e.g., senior unsecured, subordinated, etc.). 
+## Entities and Relationships:
+
+**Entities:**
+
+* **The Nasdaq Stock Market LLC:**  A company.
+* **1.375% Notes due 2029:** A financial instrument (bond).
+* **3.050% Notes due 2029:** A financial instrument (bond).
+* **0.500% Notes due 2031:** A financial instrument (bond).
+* **3.600% Notes due 2042:** A financial instrument (bond).
+
+**Relationships:**
+
+* **Issued by:** The Nasdaq Stock Market LLC issued all the listed notes.
+* **Type:** All listed items are "Notes" (bonds).
+* **Interest Rate:** Each note has a specific interest rate (e.g., 1.375%, 3.050%, etc.).
+* **Maturity Date:** Each note has a specific maturity date (e.g., 2029, 2031, 2042).
+
+**Note:** The dashes (-) in the text likely indicate a missing piece of information, such as the price or yield of the notes. 
+## Entities:
+
+* **Nasdaq Stock Market LLC** (appears twice)
+* **Registrant** 
+* **Securities Exchange Act of 1934**
+
+## Relationships:
+
+* **Issuer:** Nasdaq Stock Market LLC is the issuer of the 3.600% Notes due 2042.
+* **Debt Instrument:** The 3.600% Notes due 2042 is a debt instrument issued by Nasdaq Stock Market LLC.
+* **Regulation:** The Registrant is subject to the filing requirements of the Securities Exchange Act of 1934.
+* **Reporting:** The Registrant is required to file reports under Section 13 or 15(d) of the Securities Exchange Act of 1934.
+
+## Additional Information:
+
+* The text indicates that the Registrant is likely Nasdaq Stock Market LLC, as it is the issuer of the debt instrument.
+* The text does not specify whether the Registrant has filed all required reports, but it asks for a check mark to indicate this. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company or organization filing the document.
+* **Rule 405 of Regulation S-T:** A regulation governing electronic filing requirements.
+* **Interactive Data File:** A specific type of electronic file required by the regulation.
+
+**Relationships:**
+
+* **Registrant is subject to:** Rule 405 of Regulation S-T.
+* **Rule 405 of Regulation S-T requires:** Submission of Interactive Data Files.
+* **Registrant has submitted:** Interactive Data Files electronically. 
+
+**Note:** The text does not provide specific information about the nature of the Registrant or the content of the Interactive Data Files. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Large accelerated filer:** A type of filer defined by the SEC.
+* **Accelerated filer:** Another type of filer defined by the SEC.
+* **Non-accelerated filer:** A type of filer defined by the SEC.
+* **Smaller reporting company:** A type of filer defined by the SEC.
+* **Emerging growth company:** A type of filer defined by the SEC.
+* **Rule 12b-2:** A rule of the Exchange Act that defines the filer types.
+* **Exchange Act:** The Securities Exchange Act of 1934.
+
+**Relationships:**
+
+* **The Registrant is a Large accelerated filer.** (This is the primary relationship indicated by the checkmark.)
+* **The filer types are defined by Rule 12b-2 of the Exchange Act.**
+* **The filer types are defined by the SEC.**
+
+**Note:** The text does not explicitly state that the Registrant is *not* an accelerated filer, non-accelerated filer, smaller reporting company, or emerging growth company. However, the checkmark next to "Large accelerated filer" implies that the Registrant does not fall into any of the other categories. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Accelerated filer**
+* **Non-accelerated filer**
+* **Smaller reporting company**
+* **Emerging growth company**
+
+**Relationships:**
+
+* **Mutual exclusion:** The entities are mutually exclusive, meaning a company can only be classified as one of them. This is indicated by the checkboxes, where only one can be selected. 
+
+**Note:** The text itself doesn't provide any specific information about the entities or their characteristics. It only presents them as options for classification. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **United States Securities and Exchange Commission (SEC)**
+* **Company filing the report (unknown)**
+
+**Relationships:**
+
+* The company is filing a **Form 10-Q** with the SEC.
+* The Form 10-Q is a **Quarterly Report** pursuant to **Section 13 or 15(d)** of the **Securities Act of 1934**.
+
+**Additional Information:**
+
+* The SEC is located in **Washington, D.C. 20549**.
+* The company is required to file the Form 10-Q because it is subject to **Section 13 or 15(d)** of the **Securities Act of 1934**.
+
+**Note:** The text does not provide the name of the company filing the report. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Quarterly Report:** A document filed with the Securities and Exchange Commission (SEC).
+* **Section 13 or 15(d) of the Securities Exchange Act of 1934:**  A legal provision requiring companies to file reports with the SEC.
+* **SEC (Securities and Exchange Commission):** A government agency that regulates the securities market.
+* **Transition Report:** A document filed with the SEC during a transition period.
+
+**Relationships:**
+
+* **Quarterly Report** is filed **pursuant to** **Section 13 or 15(d) of the Securities Exchange Act of 1934**.
+* **Transition Report** is filed **pursuant to** **Section 13 or 15(d) of the Securities Exchange Act of 1934**.
+* **Both reports** are filed with the **SEC**.
+
+**Additional Information:**
+
+* The text indicates that the quarterly report is for the period ended September 30, 2023.
+* The text indicates that the transition report is for a specific transition period, but the dates are not provided. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Amazon.com, Inc.** (Registrant)
+* **Commission File No. 000-22513** (File Number)
+
+**Relationships:**
+
+* **Amazon.com, Inc.** is the **registrant** associated with **Commission File No. 000-22513**.
+
+**Missing Information:**
+
+The text lacks the specific dates for the transition period. 
+
+**Possible Interpretations:**
+
+The text likely refers to a regulatory filing or a period of transition for Amazon.com, Inc. The missing dates could be found in the context of the full document. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Delaware:** State of incorporation or organization
+* **91-1646860:** I.R.S. Employer Identification Number (EIN)
+
+**Relationships:**
+
+* **Delaware** is the state of incorporation or organization for the entity with the **EIN 91-1646860**. 
+
+**Note:** The text lacks information about the specific entity. We only know the state of incorporation and the EIN. 
+It seems like you've provided a snippet of a legal document, likely a registration statement.  Let's break down the entities and relationships:
+
+**Entities:**
+
+* **Registrant:** This is the primary entity filing the registration statement.  We don't know the specific name of the registrant from this snippet.
+* **Securities and Exchange Commission (SEC):**  This is the regulatory body mentioned by the reference to "Securities registered pursuant to S."  The "S" likely refers to a specific SEC regulation or form.
+
+**Relationships:**
+
+* **Registrant to SEC:** The registrant is filing a registration statement with the SEC, likely to offer securities for sale.
+* **Registrant to Address:** The provided address is the registrant's principal executive offices.
+
+**Missing Information:**
+
+* **Registrant Name:**  We need more context to identify the specific company or organization filing the registration statement.
+* **Specific SEC Regulation:**  The "S" reference needs more context to determine the exact SEC regulation or form being referenced.
+
+**To get a more complete picture, you'd need the full document or more context.** 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Securities:**  Common Stock
+* **Company:**  (implied) Amazon.com, Inc. (based on the trading symbol AMZN)
+* **Exchange:** Nasdaq Global Select Market
+
+**Relationships:**
+
+* **Registration:** The Common Stock is registered pursuant to Section 12(b) of the Act.
+* **Trading Symbol:** The trading symbol for the Common Stock is AMZN.
+* **Listing:** The Common Stock is listed on the Nasdaq Global Select Market.
+
+**Additional Information:**
+
+* **Par Value:** The Common Stock has a par value of $0.01 per share. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company or organization filing the report.
+* **Securities Exchange Act of 1934:** A US federal law regulating the securities industry.
+* **Section 13 and 15(d):** Specific sections within the Securities Exchange Act of 1934 that require certain reports.
+
+**Relationships:**
+
+* **The registrant is required to file reports:** This is a legal obligation imposed by the Securities Exchange Act of 1934.
+* **The registrant is subject to filing requirements:** This indicates that the registrant is obligated to file reports under the Securities Exchange Act of 1934.
+* **The registrant has filed all required reports:** This is a statement about the registrant's compliance with the filing requirements.
+* **The registrant has submitted electronically every Interactive Data File:** This is a statement about the registrant's compliance with specific electronic filing requirements.
+
+**Note:** The text is incomplete, so it's impossible to extract all relevant entities and relationships. The missing portion likely contains information about the specific Interactive Data Files required. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report.
+* **Rule 405 of Regulation S-T:** A regulation governing electronic filing of financial data.
+* **Interactive Data File:** A specific type of electronic file required by the regulation.
+
+**Relationships:**
+
+* **Submission Requirement:** The registrant is required to submit Interactive Data Files electronically according to Rule 405 of Regulation S-T.
+* **Timeframe:** The submission requirement applies for the preceding 12 months or a shorter period if the registrant was required to submit files for a shorter duration.
+* **Confirmation:** The registrant has confirmed that they have submitted all required Interactive Data Files electronically.
+* **Classification:** The registrant is classified as one of the following:
+    * Large accelerated filer
+    * Accelerated filer
+    * Non-accelerated filer
+    * Smaller reporting company
+    * Emerging growth company
+
+**Note:** The specific classification of the registrant is not provided in the text. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Large accelerated filer**
+* **Accelerated filer**
+* **Non-accelerated filer**
+* **Smaller reporting company**
+* **Emerging growth company**
+* **Rule 12b-2**
+* **Exchange Act**
+
+**Relationships:**
+
+* **Classification:** The text classifies entities based on their filing status under Rule 12b-2 of the Exchange Act.
+* **Exclusion:** The text indicates that the entity is a "large accelerated filer" and not an "accelerated filer," "non-accelerated filer," or "smaller reporting company."
+* **Regulation:** Rule 12b-2 of the Exchange Act governs the filing requirements for different types of companies.
+* **Exemption:** The text implies that "emerging growth company" is a separate category with its own filing requirements, potentially exempt from the classifications listed.
+
+**Note:** The text does not explicitly state whether the entity is an "emerging growth company." 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Emerging growth company:** A company that meets certain criteria for size and revenue.
+* **Shell company:** A company with minimal operations and assets, often created for financial manipulation.
+
+**Relationships:**
+
+* **Emerging growth company** is a **type of** **registrant**.
+* **Registrant** can **elect** to **not use** the **extended transition period** for complying with **financial accounting standards**.
+* **Registrant** can be a **shell company**.
+
+**Other Information:**
+
+* The text refers to **Section 13(a) of the Exchange Act** and **Rule 12b-2 of the Exchange Act**, which are regulations related to financial reporting and disclosure.
+* The checkboxes indicate that the registrant is being asked to provide information about its status as an emerging growth company and a shell company. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:**  The company filing the registration.
+* **Shell Company:** A company with no real business operations, often used for fraudulent purposes.
+* **Common Stock:** Shares of ownership in a company.
+
+**Relationships:**
+
+* **Is a Shell Company:** The registrant is **not** a shell company.
+* **Shares Outstanding:** The registrant has 10,334,030,586 shares of common stock outstanding.
+* **Par Value:** The par value of each share is $0.01.
+* **Date:** The number of shares outstanding was reported as of October 18, 2023. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **United States Securities and Exchange Commission (SEC)**
+* **Company filing the report** (not explicitly named, but implied by the form)
+
+**Relationships:**
+
+* **SEC** is the regulatory body that requires the filing of **Form 10-Q**.
+* The **company** is required to file **Form 10-Q** with the **SEC**.
+* **Form 10-Q** is a quarterly report filed by companies with the **SEC**.
+
+**Other Information:**
+
+* The report covers the quarterly period ended September 30, 2023.
+* The report is a **Quarterly Report** pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** Intel (Exact name of registrant as specified in its charter)
+* **Document:** Transition Report
+* **Act:** Securities Exchange Act of 1934
+* **Section:** 13 or 15(d)
+* **Commission:** Securities and Exchange Commission (implied)
+* **File Number:** 000-06217
+
+**Relationships:**
+
+* **The Registrant (Intel) is filing a Transition Report.**
+* **The Transition Report is pursuant to Section 13 or 15(d) of the Securities Exchange Act of 1934.**
+* **The Transition Report is filed with the Securities and Exchange Commission.**
+* **The Commission File Number for the Registrant is 000-06217.**
+
+**Missing Information:**
+
+* The specific dates of the transition period are not provided. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **INTEL CORPORATION:** A company
+* **Delaware:** A state
+* **2200 Mission College Boulevard:** An address
+* **Santa Clara:** A city
+
+**Relationships:**
+
+* **INTEL CORPORATION** is incorporated in **Delaware**.
+* **INTEL CORPORATION** is located at **2200 Mission College Boulevard, Santa Clara**.
+* **INTEL CORPORATION** has an IRS Employer Identification Number of **94-1672743**. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Company:**  (Not explicitly mentioned, but implied as the subject of the text)
+* **Address:** 2200 Mission College Boulevard, Santa Clara, California 95054-1549
+* **City:** Santa Clara
+* **State:** California
+* **Zip Code:** 95054-1549
+* **Phone Number:** (408) 765-8080
+
+**Relationships:**
+
+* **Location:** The company's principal executive offices are located at the given address.
+* **Address Components:** The address is composed of street address, city, state, and zip code.
+* **Contact Information:** The phone number is associated with the company. 
+
+**Note:** The text mentions "Registrant's telephone number," implying that the company is registered with some entity. However, the specific entity is not mentioned. 
+## Entities and Relationships Extracted:
+
+**Entities:**
+
+* **Registrant:** The company or organization filing the report.
+* **Securities:** Financial instruments issued by the Registrant.
+* **Section 12(b) of the Act:**  Likely refers to the Securities Act of 1933, a US federal law regulating the issuance and sale of securities.
+* **Exchange:** A marketplace where securities are traded.
+
+**Relationships:**
+
+* **Registrant's telephone number:**  A property of the Registrant.
+* **Former name, former address, former fiscal year:**  Previous information about the Registrant, indicating a change since the last report.
+* **Securities registered pursuant to Section 12(b) of the Act:**  Securities that are subject to the regulations of the Securities Act of 1933.
+* **Title of each class, Trading symbol(s), Name of each exchange:**  Attributes of the registered securities.
+
+**Missing Information:**
+
+* The text lacks specific information about the Registrant, the securities, and the exchanges. 
+* The "N/A" suggests that the Registrant does not have a telephone number.
+
+**Assumptions:**
+
+* The text is likely part of a legal document, possibly a SEC filing.
+* The "Act" refers to the Securities Act of 1933.
+
+**Further Information Needed:**
+
+* The full context of the text is needed to understand the specific details of the Registrant and the securities.
+* The specific requirements of the "Section 12(b) of the Act" would be helpful to interpret the information. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:**  The company filing the report (not explicitly named, but likely Intel Corporation based on the trading symbol).
+* **INTC:**  The trading symbol for Intel Corporation.
+* **Nasdaq Global Select Market:**  The stock exchange where Intel Corporation is listed.
+* **Securities Exchange Act of 1934:**  A US federal law regulating the securities industry.
+
+**Relationships:**
+
+* **Trading Symbol - Company:** INTC is the trading symbol for the registrant (Intel Corporation).
+* **Company - Exchange:** The registrant (Intel Corporation) is listed on the Nasdaq Global Select Market.
+* **Company - Regulation:** The registrant is subject to the Securities Exchange Act of 1934.
+* **Report - Regulation:** The registrant is required to file reports under the Securities Exchange Act of 1934.
+
+**Note:** The text does not explicitly state whether the registrant has filed all required reports. It only asks whether they have filed them. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company or organization filing the report.
+* **Rule 405 of Regulation S-T:** A regulation governing the submission of Interactive Data Files.
+* **Interactive Data File:** A specific type of file required for electronic reporting.
+
+**Relationships:**
+
+* **Required to file reports:** The registrant is obligated to file reports.
+* **Subject to filing requirements:** The registrant is under the jurisdiction of the filing requirements.
+* **Required to submit Interactive Data Files:** The registrant is obligated to submit Interactive Data Files.
+* **Submitted electronically:** The registrant has submitted files electronically.
+* **Large accelerated filer:** A classification of the registrant based on its size and financial characteristics.
+
+**Other Information:**
+
+* **Past 90 days:** The registrant has been subject to filing requirements for the past 90 days.
+* **Preceding 12 months:** The registrant has submitted Interactive Data Files for the past 12 months.
+
+**Note:** The text does not explicitly state whether the registrant is a large accelerated filer. It only asks whether the registrant is one. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company or organization filing the registration.
+* **Large accelerated filer:** A company meeting specific criteria for size and public float.
+* **Accelerated filer:** A company meeting specific criteria for size and public float, but not as large as a large accelerated filer.
+* **Non-accelerated filer:** A company that does not meet the criteria for either large accelerated filer or accelerated filer.
+* **Smaller reporting company:** A company meeting specific criteria for size and public float, smaller than a non-accelerated filer.
+* **Emerging growth company:** A company meeting specific criteria for revenue and public float, typically younger and smaller companies.
+
+**Relationships:**
+
+* **Classification:** The registrant is classified into one of the above categories based on its size and public float.
+* **Rule 12b-2:** This rule of the Exchange Act defines the criteria for each category.
+* **Check mark:** The registrant indicates its category by checking the appropriate box.
+
+**Note:** The text does not provide any specific information about the registrant, so we cannot extract any entities or relationships related to the specific company. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Smaller Reporting Company**
+* **Emerging Growth Company**
+* **Registrant**
+* **Exchange Act** (Section 13(a))
+
+**Relationships:**
+
+* **Emerging Growth Company** is a type of **Registrant**.
+* **Registrant** is subject to the **Exchange Act**.
+* **Registrant** may be a **Shell Company**.
+* **Emerging Growth Company** may elect not to use the extended transition period for complying with new or revised financial accounting standards provided pursuant to **Section 13(a) of the Exchange Act**.
+
+**Other Information:**
+
+* The text indicates that the **Registrant** is not a **Smaller Reporting Company**.
+* The text provides checkboxes for the **Registrant** to indicate whether it is an **Emerging Growth Company** and whether it has elected not to use the extended transition period.
+
+**Note:** This analysis is based on the provided text snippet. Further context may be needed for a more comprehensive understanding of the entities and relationships involved. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Exchange Act:** The Securities Exchange Act of 1934.
+* **Rule 12b-2:** A rule within the Exchange Act defining "shell company".
+* **Common stock:** Shares of ownership in the registrant company.
+
+**Relationships:**
+
+* **Section 13(a) of the Exchange Act:** The registrant is subject to this section.
+* **Rule 12b-2 of the Exchange Act:** The registrant is not a shell company as defined by this rule.
+* **Registrant and Common Stock:** The registrant has 4,216 million shares of common stock outstanding.
+
+**Other Information:**
+
+* **October 20, 2023:** The date the information about outstanding shares was current. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **United States Securities and Exchange Commission (SEC)**
+* **Company filing the report** (not explicitly named, but implied by the form)
+
+**Relationships:**
+
+* **SEC** is the regulatory body that requires the filing of **Form 10-Q**.
+* The **company** is required to file **Form 10-Q** with the **SEC**.
+* **Form 10-Q** is a quarterly report filed by companies with the **SEC**.
+
+**Other Information:**
+
+* The report covers the quarterly period ended September 30, 2023.
+* The report is either a "Quarterly Report" or a "Transition Report" depending on the company's status. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Microsoft Corporation:** A company.
+* **SEC (Securities and Exchange Commission):** A government agency.
+* **Transition Report:** A document.
+* **Section 13 or 15(d) of the Securities Exchange Act of 1934:** A legal document.
+* **Washington:** A state.
+
+**Relationships:**
+
+* **Microsoft Corporation** is filing a **Transition Report** pursuant to **Section 13 or 15(d) of the Securities Exchange Act of 1934**.
+* **Microsoft Corporation** is incorporated in **Washington**.
+* **Microsoft Corporation** has a **Commission File Number** of **001-37845**.
+
+**Other Information:**
+
+* The **Transition Report** covers a specific **Transition Period** (dates not provided).
+* The **Commission File Number** is a unique identifier assigned by the **SEC**. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Microsoft** (Company)
+* **State of Incorporation** (Location)
+* **I.R.S.** (Organization)
+* **Securities and Exchange Commission** (Organization)
+
+**Relationships:**
+
+* **Microsoft** is incorporated in a **State of Incorporation**.
+* **Microsoft** has an **I.R.S. ID**.
+* **Microsoft** is located at **ONE MICROSOFT WAY, REDMOND, WASHINGTON 98052-6399**.
+* **Microsoft** has a phone number **(425) 882-8080**.
+* **Microsoft** has a website **www.microsoft.com/investor**.
+* **Microsoft** has **Securities registered pursuant to Section 12(b) of the Act**.
+
+**Note:** The text does not specify the actual state of incorporation or the I.R.S. ID. It only mentions that these pieces of information are present. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Company:** Microsoft (implied from the trading symbol "MSFT")
+* **Securities:**
+    * Common Stock
+    * 3.125% Notes due 2028
+    * 2.625% Notes due 2033
+* **Exchange:** NASDAQ
+
+**Relationships:**
+
+* **Issuance:** Microsoft issued the Common Stock, 3.125% Notes due 2028, and 2.625% Notes due 2033.
+* **Trading:** All securities are traded on the NASDAQ exchange.
+* **Par Value:** The Common Stock has a par value of $0.00000625 per share.
+* **Maturity:** The 3.125% Notes mature in 2028 and the 2.625% Notes mature in 2033.
+* **Trading Symbol:** All securities are traded under the symbol "MSFT" on NASDAQ.
+
+**Note:** The text mentions "Section 12(b) of the Act," which likely refers to a specific legal act or regulation. However, without knowing the full context of the Act, it's difficult to extract further relationships. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:**  The company filing the report (likely Microsoft, based on the "MSFT" symbol).
+* **Securities Exchange Act of 1934:**  A US federal law regulating the securities industry.
+* **NASDAQ:**  A stock exchange where Microsoft is listed.
+* **625% Notes due 2033:**  A type of debt security issued by the registrant.
+
+**Relationships:**
+
+* **Issuance:** The registrant (Microsoft) has issued 625% Notes due 2033.
+* **Listing:** The registrant (Microsoft) is listed on the NASDAQ stock exchange.
+* **Regulation:** The registrant is subject to the Securities Exchange Act of 1934.
+* **Compliance:** The registrant has filed all required reports under the Securities Exchange Act of 1934.
+
+**Additional Notes:**
+
+* The text mentions "Inter" but the sentence is incomplete. It's unclear what type of "Inter" is being referred to. 
+* The text doesn't provide information about the specific content of the 625% Notes due 2033, such as the amount issued or the purpose of the debt. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Rule 405 of Regulation S-T:** A regulation governing electronic data submission.
+* **Interactive Data File:** A specific type of electronic file required by the regulation.
+* **Large accelerated filer:** A company meeting certain size and public float criteria.
+* **Accelerated filer:** A company meeting less stringent size and public float criteria than a large accelerated filer.
+* **Non-accelerated filer:** A company that does not meet the criteria for either large accelerated filer or accelerated filer.
+* **Smaller reporting company:** A company meeting specific size and public float criteria.
+* **Emerging growth company:** A company meeting specific criteria related to revenue and public float.
+
+**Relationships:**
+
+* **The registrant is required to submit Interactive Data Files pursuant to Rule 405 of Regulation S-T.**
+* **The registrant has submitted all required Interactive Data Files electronically in the past 12 months.**
+* **The registrant is classified as one of the following: large accelerated filer, accelerated filer, non-accelerated filer, smaller reporting company, or emerging growth company.**
+
+**Note:** The text does not specify which of the filer classifications the registrant belongs to. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Company:**  The subject of the text, likely a publicly traded company.
+* **Large Accelerated Filer:** A type of filer defined by the SEC.
+* **Accelerated Filer:** A type of filer defined by the SEC.
+* **Non-accelerated Filer:** A type of filer defined by the SEC.
+* **Smaller Reporting Company:** A type of filer defined by the SEC.
+* **Emerging Growth Company:** A type of filer defined by the SEC.
+* **Rule 12b-2:** A rule of the Exchange Act.
+* **Exchange Act:**  Likely refers to the Securities Exchange Act of 1934.
+
+**Relationships:**
+
+* **Company is a type of filer:** The company is classified as one of the filer types (Large Accelerated Filer, Accelerated Filer, Non-accelerated Filer, Smaller Reporting Company, or Emerging Growth Company).
+* **Filer types are defined by Rule 12b-2:** The definitions of the filer types are found in Rule 12b-2 of the Exchange Act.
+* **Rule 12b-2 is part of the Exchange Act:** Rule 12b-2 is a rule within the Securities Exchange Act of 1934.
+
+**Additional Information:**
+
+* The checkboxes indicate that the company is a **Large Accelerated Filer**.
+* The text suggests that the company is either a large company or an emerging growth company.
+
+**Note:** This analysis is based on the limited information provided. More context would be needed to fully understand the entities and relationships involved. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Emerging Growth Company:** A company that meets certain criteria defined by the SEC.
+* **Shell Company:** A company with minimal operations and assets, often created for financial manipulation.
+
+**Relationships:**
+
+* **Registrant** can be an **Emerging Growth Company**.
+* **Registrant** can be a **Shell Company**.
+* **Emerging Growth Company** can elect not to use the extended transition period for complying with new financial accounting standards.
+
+**Other Information:**
+
+* The text refers to **Section 13(a) of the Exchange Act** and **Rule 12b-2 of the Exchange Act**, which are regulations related to financial reporting and disclosure.
+* The checkboxes indicate whether the registrant meets certain criteria. 
+
+**Note:** This analysis is based on the provided text and may not capture all possible entities and relationships. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** A company, likely a shell company.
+* **Issuer:** The company issuing the common stock.
+* **Common Stock:** A class of stock issued by the issuer.
+
+**Relationships:**
+
+* **Registrant is a shell company:** This is a characteristic of the registrant.
+* **Issuer issues Common Stock:** The issuer is responsible for the common stock.
+* **Common Stock has a par value:** The common stock has a specific value per share.
+* **Outstanding shares of Common Stock:** There are 7,432,2 shares of common stock outstanding as of October 19, 2023.
+
+**Additional Information:**
+
+* **Rule 12b-2 of the Exchange Act:** This rule defines what constitutes a shell company.
+* **October 19, 2023:** This is the date for the outstanding shares count.
+
+**Note:** The text does not explicitly state the name of the registrant or the issuer. 
+This text only contains a single entity:
+
+* **Entity:** 7,432,262,329 shares
+
+There are no relationships expressed in this text. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **United States Securities and Exchange Commission (SEC)**
+* **Company filing the report (not specified)**
+
+**Relationships:**
+
+* The company is filing a **Form 10-Q** with the SEC.
+* The report is a **Quarterly Report** pursuant to **Section 13 or 15(d) of the Securities Exchange Act of 1934**.
+* The report covers the **quarterly period ended October 29, 2023**.
+
+**Additional Information:**
+
+* The SEC is located in **Washington, D.C. 20549**.
+* The company filing the report has marked the box for **Quarterly Report**. 
+
+**Note:** The text does not provide the name of the company filing the report. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **E ACT of 1934:**  A law (likely the Securities Exchange Act of 1934)
+* **NVIDIA:** A company
+* **Commission:**  Likely the Securities and Exchange Commission (SEC)
+
+**Relationships:**
+
+* **NVIDIA** is subject to the **E ACT of 1934**.
+* **NVIDIA** has a **Commission file number** of 0-23985.
+* **NVIDIA** is filing a **quarterly report** or a **transition report** pursuant to the **E ACT of 1934**.
+
+**Additional Information:**
+
+* The report is for the period ended October 29, 2023.
+* The report is either a quarterly report or a transition report.
+* The exact name of the registrant (NVIDIA) is specified in its charter.
+
+**Note:** The text is incomplete, so it's difficult to extract all possible entities and relationships. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **NVIDIA CORPORATION:**  A corporation.
+* **Delaware:** A state.
+* **I.R.S.:** The Internal Revenue Service.
+
+**Relationships:**
+
+* **NVIDIA CORPORATION** is incorporated in **Delaware**.
+* **NVIDIA CORPORATION** has an **I.R.S. Employer Identification Number** of **94-3177549**. 
+
+**Note:** The text also mentions a "charter" for NVIDIA CORPORATION, suggesting a legal document outlining the corporation's purpose and structure. 
+## Entities:
+
+* **Company:**  (Not explicitly mentioned, but implied by the context of the document)
+* **Address:** 2788 San Tomas Expressway, Santa Clara, California 95051
+* **City:** Santa Clara
+* **State:** California
+* **Zip Code:** 95051
+* **Phone Number:** (408) 486-2000
+
+## Relationships:
+
+* **Location:** The company's principal executive offices are located at the given address.
+* **Contact:** The phone number is associated with the company. 
+## Entities and Relationships Extracted:
+
+**Entities:**
+
+* **Registrant:** The entity filing the report.
+* **Securities:** Financial instruments registered under Section 12(b) of the Act.
+
+**Relationships:**
+
+* **Registrant's telephone number:**  A property of the Registrant.
+* **Former name, former address, former fiscal year:**  Attributes of the Registrant that have changed since the last report.
+* **Title of each class:**  A property of the Securities.
+* **Trading Symbol(s):**  A property of the Securities.
+
+**Note:** The text does not provide specific information about the Registrant or the Securities, so the entities and relationships are general in nature. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the report (not explicitly named, but implied)
+* **Common Stock:** The type of security issued by the registrant
+* **NVDA:** The trading symbol for the registrant's common stock
+* **The Nasdaq Global Select Market:** The exchange where the registrant's common stock is registered
+
+**Relationships:**
+
+* **Issued by:** The registrant issued the common stock.
+* **Traded on:** The registrant's common stock is traded on The Nasdaq Global Select Market.
+* **Symbol:** NVDA is the trading symbol for the registrant's common stock.
+* **Registered on:** The registrant's common stock is registered on The Nasdaq Global Select Market.
+
+**Additional Information:**
+
+* The text mentions Section 13 and 15(d) of the Securities Exchange Act of 1934, which are related to reporting requirements for publicly traded companies. This suggests the registrant is a publicly traded company.
+* The text also mentions a check mark, indicating a form or document where the registrant is required to provide information about its reporting status.
+
+**Note:** The text is incomplete, so it's impossible to extract all relevant entities and relationships. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company or organization filing the report.
+* **Rule 405 of Regulation S-T:** A regulation governing the submission of Interactive Data Files.
+* **Large accelerated filer:** A type of filer with specific reporting requirements.
+* **Accelerated filer:** Another type of filer with specific reporting requirements.
+* **Non-accelerated filer:** A type of filer with specific reporting requirements.
+
+**Relationships:**
+
+* **The registrant is subject to filing requirements:** This indicates a regulatory obligation.
+* **The registrant has submitted electronically every Interactive Data File:** This indicates compliance with Rule 405.
+* **The registrant is a [type of filer]:** This indicates the filer's classification based on specific criteria.
+
+**Other Information:**
+
+* **90 days:** This refers to a specific time period for filing requirements.
+* **12 months:** This refers to a specific time period for submitting Interactive Data Files.
+
+**Note:** The text does not provide specific information about the registrant's identity or the nature of the Interactive Data Files. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Large accelerated filer:** A type of filer defined by the SEC.
+* **Accelerated filer:** A type of filer defined by the SEC.
+* **Non-accelerated filer:** A type of filer defined by the SEC.
+* **Smaller reporting company:** A type of filer defined by the SEC.
+* **Emerging growth company:** A type of filer defined by the SEC.
+* **Rule 12b-2:** A rule of the Exchange Act defining the filer types.
+* **Exchange Act:** The Securities Exchange Act of 1934.
+
+**Relationships:**
+
+* **Classification:** The registrant is classified as a **large accelerated filer**.
+* **Definition:** The filer types are defined by **Rule 12b-2** of the **Exchange Act**.
+* **Exclusion:** The registrant is **not** an accelerated filer, non-accelerated filer, smaller reporting company, or emerging growth company.
+* **Potential:** The text implies that if the registrant were an emerging growth company, there would be further information to provide.
+
+**Note:** The text does not provide specific information about the registrant itself, such as its name or industry. 
+## Entities and Relationships:
+
+**Entities:**
+
+* **Registrant:** The company filing the document.
+* **Emerging Growth Company:** A company that meets certain criteria for being considered an emerging growth company.
+* **Shell Company:** A company with no or minimal operations and assets, often created for the purpose of raising capital.
+
+**Relationships:**
+
+* **Emerging Growth Company and Registrant:** The registrant may or may not be an emerging growth company.
+* **Registrant and Shell Company:** The registrant is not a shell company.
+* **Registrant and Common Stock:** The registrant has issued 2.47 billion shares of common stock.
+
+**Other Information:**
+
+* **Extended Transition Period:**  The registrant has not elected to use the extended transition period for complying with new or revised financial accounting standards.
+* **Common Stock:** The registrant's common stock has a par value of $0.001.
+* **Outstanding Shares:** As of November 17, 2023, there were 2.47 billion shares of common stock outstanding. 
+This text fragment is too short to extract any meaningful entities or relationships. It only provides a numerical value (2.47 billion) without any context. 
+
+To extract entities and relationships, please provide a complete sentence or a larger text passage. For example, you could say:
+
+"The global population of smartphones in 2023 is estimated as 2.47 billion."
+
+From this sentence, we can extract:
+
+* **Entities:**
+    * Global population of smartphones
+    * 2023
+* **Relationship:**
+    * The global population of smartphones in 2023 is estimated as 2.47 billion. 
