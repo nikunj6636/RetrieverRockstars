@@ -1,6 +1,0 @@
-langchain==0.2.8
-langchain-community==0.2.7
-langchain-core==0.2.19
-langchain-experimental==0.0.62
-json-repair==0.30.0
-networkx=3.4.1
