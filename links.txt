@@ -1,0 +1,7 @@
+Neo4j documentation with langchain:
+https://python.langchain.com/docs/integrations/graphs/neo4j_cypher/
+
+GraphRAG with Langchain and Neo4J (Article with basic implementation)
+https://medium.com/@jinglemind.dev/mastering-advanced-rag-methods-graphrag-with-neo4j-implementation-with-langchain-42b8f1d05246
+
+Explore the metrics and comparision of generated responses:
