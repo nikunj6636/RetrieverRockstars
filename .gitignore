@@ -1,2 +1,3 @@
 .env
-test_azure_ai.ipynb
+azure.ipynb
+*.pickle
