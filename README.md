@@ -1,3 +1,7 @@
+## Tracking Runs
+https://langsmith.com
+Project: GraphIndex Creator
+
 ## Running LLMs
 - To run ollama model with GPU
     ```
@@ -16,6 +20,9 @@
 
 Making KG using Graph Index Creator and stores in Networkx Entity Graph: \
 https://www.kaggle.com/code/aritrase/bulding-graphqa-chain-using-langchain
+
+- Exteacts Triplets from Graph which are insufficient sources of knowledge and hence GrapgRAG
+not able to perform.
 
 
 ### Local to Global Text Summarization:
