@@ -17,15 +17,16 @@ for index, row in df.iterrows():
     
 df1['Generated Answers'] = l1
 
-l = ["" for i in range(df1.shape[0])]
+
+df2 = pd.DataFrame(columns=df1.columns)
 for index, row in df1.iterrows():
-    string = row['Generated Answers']
-    if (string == 'not available'):
+    string = row['Generated Answers']   
+    if pd.isna(string):
         continue
     start_index = string.find("SUCCESS")
     if start_index != -1:
         new_string = string[start_index: -2]
-    l[index] = new_string
-df2 = df1.copy()
-df2['Generated Answers'] = l
+    l = [row[col] for col in df1.columns]
+    l.append(new_string)
+    df2.loc[len(df2.index)] = row
 df2.to_csv('new_questions_with_LLM_answers.csv', header=True, index=False)
