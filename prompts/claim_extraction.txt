@@ -1,0 +1,16 @@
+-Target-
+As an assistant, you help analyze claims against entities in a document.
+-Goal-
+Given a document, entity specification, and claim description, identify and extract relevant entities and claims.
+-Steps-
+Extract entities matching the specification (e.g., names or types).
+For each entity, extract associated claims that match the description, including details like subject, object, type, status, description, date, and source text.
+Format:
+Return claims as:
+(<subject_entity>{tuple_delimiter}<object_entity>{tuple_delimiter}<claim_type>{tuple_delimiter}<claim_status>{tuple_delimiter}<claim_start_date>{tuple_delimiter}<claim_end_date>{tuple_delimiter}<claim_description>{tuple_delimiter}<claim_source>)
+Use {record_delimiter} for separating entries and end with {completion_delimiter}.
+-Real Data-
+Use the following input for your answer.
+Entity specification: {entity_specs}
+Claim description: {claim_description}
+Text: {input_text}
