@@ -1,0 +1,5 @@
+regex
+requests
+llama_parse
+google.generativeai
+langchain_google_genai
